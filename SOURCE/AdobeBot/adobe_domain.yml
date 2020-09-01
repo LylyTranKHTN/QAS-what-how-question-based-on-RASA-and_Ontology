@@ -1,0 +1,85 @@
+slots:
+    action:
+        type: text
+    version:
+        type: text
+    OS:
+        type: text
+    equipment:
+        type: text
+    confirm:
+        type: text
+    object_1:
+        type: text
+    object_2:
+        type: text
+    object_3:
+        type: text
+    list_process:
+        type: list
+    list_step:
+        type: list
+
+intents:
+    - greet
+    - ask_name
+    - goodbye
+    - what_object
+    - ask_how
+    - thankyou
+    - choose_process
+    
+templates:
+    utter_ask_for_help:
+        - "[{'respone': 'Oh I'm so sorry, what is your problem ?'}]"
+        - "[{'respone': 'What is your problem, sir ?'}]"   
+    utter_ask_version:
+        - "[{'respone': 'Oh, I see, which is your current version of photoshop ?'}]"
+        - "[{'respone': 'Which version of your current photoshop ?'}]"
+    utter_ask_os:
+        - "[{'respone': 'Which operating system do you use ?'}]"
+    utter_ask_equipment:
+        - "[{'respone': 'What is the current equipment you want to install on ?'}]"
+    utter_greet:
+        - "[{'respone': 'Hello ! How can I help you ?'}]"
+    utter_goodbye:
+        - "[{'respone': 'See you next time'}]"
+    utter_find_object:
+        - "[{'respone': 'I don't know what object you mention.'}]"
+        - "[{'respone': 'Which objects do you want to find ?'}]"
+    utter_ask_true:
+        - text: "Is that you mean ?"
+          buttons:
+          - title: "Yes"
+            payload: "Yes"
+          - title: "No"
+            payload: "No"
+    utter_information_object:
+        - "Ok wait for a second. I'm on it"
+    utter_thank_you:
+        - "[{'respone': 'Your welcome!'}]"
+    utter_show_steps: 
+        - text: "Follow these steps below {list_step}"
+    utter_ask_name:
+        - text: "[{'respone': 'My name is Adobot.'}]"
+        
+actions:
+    - action_renew
+    - restart
+    - utter_greet
+    - utter_ask_os
+    - utter_ask_equipment
+    - utter_ask_version
+    - utter_goodbye
+    - utter_ask_name
+    - utter_ask_for_help
+    - utter_find_object
+    - utter_ask_true
+    - utter_information_object
+    - utter_thank_you
+    - action_search_entity
+    - action_show_process
+    - action_confirm
+    - action_search_how_answer
+    - action_show_steps
+    - action_default_fallback

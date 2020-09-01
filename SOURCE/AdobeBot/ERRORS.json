@@ -1,0 +1,74 @@
+[
+    {
+        "text": "stupid bot",
+        "intent": "greet",
+        "intent_prediction": {
+            "name": "what_object",
+            "confidence": 0.6512817740440369
+        }
+    },
+    {
+        "text": "what is your name stupid bot ?",
+        "intent": "greet",
+        "intent_prediction": {
+            "name": "ask_name",
+            "confidence": 0.8919097781181335
+        }
+    },
+    {
+        "text": "show me the bounding box",
+        "intent": "what_object",
+        "intent_prediction": {
+            "name": "ask_how",
+            "confidence": 0.9595816731452942
+        }
+    },
+    {
+        "text": "tks good bye",
+        "intent": "thankyou",
+        "intent_prediction": {
+            "name": "goodbye",
+            "confidence": 0.8973870873451233
+        }
+    },
+    {
+        "text": "Layer projection painting",
+        "intent": "choose_process",
+        "intent_prediction": {
+            "name": "what_object",
+            "confidence": 0.7830353379249573
+        }
+    },
+    {
+        "text": "ádasdasdasdas",
+        "intent": "choose_process",
+        "intent_prediction": {
+            "name": "",
+            "confidence": 0.0
+        }
+    },
+    {
+        "text": "ádasdaszczxcasfas",
+        "intent": "choose_process",
+        "intent_prediction": {
+            "name": "",
+            "confidence": 0.0
+        }
+    },
+    {
+        "text": "ưqrqlwkjwkjfa",
+        "intent": "choose_process",
+        "intent_prediction": {
+            "name": "",
+            "confidence": 0.0
+        }
+    },
+    {
+        "text": "how abcdfagaweweter",
+        "intent": "choose_process",
+        "intent_prediction": {
+            "name": "what_object",
+            "confidence": 0.9116198420524597
+        }
+    }
+]

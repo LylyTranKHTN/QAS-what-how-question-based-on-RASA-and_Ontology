@@ -1,0 +1,239 @@
+## intent:greet
+- hi bot
+- hi there
+- hello there
+
+## intent:ask_how
+- I'm trying to install Photoshop CS6 and adobe indesign on ubuntu 13.04.
+- Hello Any One Have You Idea How to Install Photoshop in Ubuntu OS?
+- I have multiple images of different width and height. Now I want to make them of same Width & Height. So is there any way I can do this in photoshop?
+- I would like to resize and save as images in a given folder. But i want to do it with maximum possible quality. I am willing to use third party software.
+- I  am having an image which is taken as a screenshot and it should be uploaded in my webpage, so I wanted to edit it through Photoshop. As I am new to Photoshop, please help me to find a way. Thanks in advance!
+- I have created a Spherical Panoramas in Photoshop that I can drag around and see a complete 360 view but I must be in Photoshop. How do I take that and transfer it to the web so a user can click and drag around the view using javascript? (I do have access to Flash Professional CS 5.5 but I have no experience using it if that program would be better for this application) Also please note I cannot use server side scripts. Please Client Side Scripts Only
+- if someone take 4 pictures representing the 360 degrees around him, he will be able to create one big image (panorama) by stitching the 4 images together using special algorithm that recognize some patterns.
+- Im looking for help. I would like to expand my knowledge on editing a 360 spherical panorama.
+- I have a question about the workflow for creating and editing panoramas
+- I would like to ask you for an advice about my panorama problem. When editing panorama from Lightroom to Photoshop in same photo collections wierd curvy lines occurs as shonw on the enclosed photo
+- Trying to merge 3 images - the layers seem to be created but at the conclusion the panorama is not produced ??
+- I am a software engineer of graphics tablet vendor. Please tell me how to design the tablet driver that can rotate image in Photoshop?
+- How do I rotate an image I placed in photoshop ?
+- How do I rotate an image I placed in ps? I can't seem to find the actual arrow tool on my tool bar and I need some help. 
+- In Extendscript, how would one crop image to the current selection? Thank you!
+- So guys, i want to crop this APPLE to make it a mouth like in the first image, how do i do that?
+- Trying to get the crop tool to select a certain pixel area from an image.
+every time I try to straighten an image, it reduces the file size significantly. How do I straighten/transform an image without making it so much smaller?
+- How can I straighten the top part of this image ? I've tried the warp tool, maybe I didn't give it enough time, the puppet warp tool as well although it's tougher to get it perfectly straight. The text need to be straightened as well.
+- Hi all, I'm using CS6/Creative Cloud and all of a sudden I'm getting an error when I try to straighten an image
+- I'm trying to use Photoshop CS3 to crop and straighten images of postage stamps
+- I'm trying to edit a text in my Adobe Photoshop 2019. Every time I click on the text, it would create a new layer. Also, there's this box wrapped around the cursor and it won't go away.
+- I need help figuring out how to edit text in photoshop after saving it as a psd. It's my resume and I need to add new information to it.
+- I have been using PS for years. I know how to use the text tool. I am presently unable to select or edit text, has anyone had this Problem? Do I need to reinstall. Please help!!! Is there a fix for this?
+- When I use "check spelling" in photoshop, and I know there is a word spelled wrong, I still get a dialog box that says "spell check complete" and it does not recognize the error.
+- I would love to have real time spell check in Photoshop. Sometimes I type stuff up, it looks great, and I don't run a spell check - and to my chagrin, after I post it into Facebook, UGH! - there's a misspelling.
+I am not getting no error message. its just when I right click and go to spell check it picks up almost every word that is spelled correctly and gives me different words I do not want
+- I'm trying to replace the text "^2" with "2" on photoshop by a find and replace, as there are many instances of this on my image
+- how to find register mark in all text layers and replace with registered mark with superscript format
+- They've used the wrong colours in some places, so I've been through to correct them.  There is one particular colour which I can't seem to assign to the text
+- In CS6 how do you changes rulers to decimal inches
+- How can I change the measurement of the kerning quick key? (When you press option + arrow keys)
+- Can I change the Transform measurement default from pixels to inches?
+- I am not able to download photoshop template
+- I'm trying to download Photoshop CC, I get to the point where it asks if I want to run the programme on my laptop and I click yes. It'll load for a few secs, stops and does nothing..
+- I have a dell computer with microsoft 7. It wont let me download a previous photoshop version and says my computer is not capable of make the update that when trying to download photoshop wants me to.... how can i get photoshop downloaded? I dont know what to do...
+- Hi! When trying to download photoshop CC to my new computer, it just says " Can´t download because your computer doesn't have the right programs/updates. Although, I was able to download it on my old computer. Why could this be? My newer computer has all the updates and is better than my old one. I checked and it should be all up to date and have the space for photoshop. Any ideas?
+- I have a new Macbook that doesn't have a disc drive. I want to install my old copy of Photoshop CS5 Extended. I downloaded the program from Adobe's site, but it will not install
+- I'm having an issue when I try to install Photoshop. This started a few weeks back when I kept getting and error for "Dynamic Link unavailable".
+- I have purchase and installed Photoshop CC on one of my computers. I'm now ready to install it on the second one. But this Win 7 PC is running short of space on its C: drive. I want to install the files onto its D: drive. But the installer does not allow me the choice to do that.
+- I get a error when trying to install Photoshop CC and i dont know why?
+- How to create a 3D PDF with absolutely no shadow
+- How can I create a 3d pentagon in photoshop that is like the cube mesh preset but with 5 sides? 
+- How do I create 3D Image?
+- I am new to Photoshop 3D and could do with a little guidance. I wish to create a 3D model of our local area and wondered whether I can use Google maps as a starting point. Is this possible?
+- I need to create a character like charecter on ekalayawebs.com. I found that character are really funny, and cute. What tool I need to use in photoshop ?
+- I need to create a character just like character using photoshop
+- Hi. How to create a website with a photoshop design with layers?
+- I want to design website template for this domain. I want to use blogspot to host this website
+any idea why the clone tool isn't carrying the selected area? As in the selected area isn't visible within the brush?
+- I select an area I want to transform with the lasso tool
+- How can I select my photo?
+- I recently upgraded my photoshop cc to cc 2019.  Now, when I use the crop tool, there's no more little center cross-hair. 
+- Since the update, the midpoint is no longer displayed when using the crop tool. Any ideas for a fix?
+- I use the following script for cutting and straightening several photos of a scan. Now I want to place each photo on a different artboard with the dimensions 2000x2000px (450 dpi).
+- How do I crop photo?
+- How do I crop a photo so that I can keep the sides of the photo but remove the middle part.
+- I'm using Photoshop CC 3d to prepare my 3d designs for printing.   As part of the preparation Photoshop checks the mesh, builds supports if needed, and builds a raft at the base before giving the option to export to a printer.
+- Has anyone successfully printed a 3D object using the Maker Bot or any other 3D printer for that matter with PsCC.  Does the scaffolding that PsCC create work effectively ? Were you able to print a object successfully on the first print, with no errors ?
+- It's a pain for me now to resize images and shape because when I resize images, it doesn't requires to press SHIFT to resize with the same ratio, but resizing shapes does require pressing SHIFT, and it's annoying and lack of consistent
+- For the love of God somebody please help me resize images for IG!!! I’ve been trying to do one pic for 2 hours.
+- I tried to resize image apply image with in points without re sample(Disable).it shows error
+- i tried the color passport check but and create a dng profile , but it doesn't eliminate the color cast
+- When i tried to fill the path with the patterns, I set everything and clicked OK. To my surprise, the patterns were half cut. Can anyone tell me what is the problem ?
+- Help whenever I make path the option to fill  isn't there.
+- When I use the fill path option in the pen tool, it fills the outside of the path instead of the inside. How do I fix this it's really annoying me
+- I traced a path in Photoshop and filled it with color with a transparent background ... and everytime I move it to illustrator the path has a white background
+- Is there a way to stroke some paths with a custom brush from bottom to top instead from top to bottom like Photoshop usually does?
+- When I create a path with and stroke it with stars, it doesn't just put 1 star evenly spaced. What happens is each star has another star overlaid over it offset slightly. I don't want this
+- I am using PS CC 2017 and I'm having problems stroking a path.   I think I have a setting wrong.  The option is greyed out.  No problem with this in my old PS.  Can you tell me what setting I may have wrong for this to happen?
+- I can't figure out how to add a color wheel to the surface dial. I keep seeing images of it with a color wheel, or is that not available yet for Photoshop?
+- I'm trying to add color inside 3D text. The only way I know how is to add a new layer and manually add color using the paint brush, but this takes too much time!
+- when I add color lookups photoshop crashes for 1 minute, it's very hard to experiment with color lookups, because every time I switch in color lookups I have to wait 1 minute, this problem happens after updating to CC 2017.
+- need to add a beige color filter to an image. I need the first image to look like the buildings in the bottom image.  How is this done in either Adobe Illustrator CC or Adobe Photoshop CC?
+- how to add path blur in photoshop cs6?
+- I just went to add a brush stroke to a path (a circle), but the add stroke is greyed out. I can't fathom out how to add the stroke, Can anyone nudge me in the right direction, please?
+- I am using CC 2019. I am unable to add text to a path. I have been able to do this in other versions of Photoshop for years. Is there a change in the way this is done now?
+- I am trying to add a stoke to a path via the enter/return key. However, whenever and whatever brush i use, the brush creates a tapered look rather than a uniform look. I've tried looking at other resources, but I'm not finding anything.
+- I'm using photoshop cs6. tell me how to run it
+- When I convert layers to a smart object, the default canvas it's on is the size of the original canvas rather than the size of the object--I alawys have to go into the smart object file and crop it--is there anyway to change this default?
+- I am trying to get the active layer to convert to a smart object via script.
+-   I am trying to create a script that converts the selected embedded smart object layer into a linked smart object by bringing up a "save as" dialog so the user can direct where to saved the linked smart object to, each time the script runs. So far I've been able to find this script which converts an embedded smart object to a linked smart object and saves it to a predefined path:
+- Hello, so i've been trying to reduce noise in some astrophotography photos I took the other day in death valley and when I load them into photoshop from Lightroom as edit in photoshop as layers. I can no longer choose selected layers and convert them into a smart object.
+- Is there any way to convert a layer with a layer mask into a smart object without the layer mask thumbnail disappearing on Photoshop CC? I understand that the mask thumbnail still appears if the mask was applied AFTER the original image was converted to a smart object but I, very stupidly, forgot to do this and have now gotten too far into editing my layers to start the process again. I know that the layer mask can still be edited when the smart object is opened in a separate window however it is important in my case that the layer mask is obvious and editable within the original document.
+- I'm new to editing videos in PS. I've got that when making a global adjustment to all the frames I need to convert to smart object. My problem is that having edited with the layer going purple in the time line (smart object) I then can't review the whole video by hitting play on the timeline without the frame rate going red and settling at a ridiculous 8-9fps.
+- I have a text layer, when I convert it to smart object OR rasterize it OR merge then it becomes BOLDER nad more pixelated / blocky then original text layer. I use photoshop CC and I never noticed such a problem in Photoshop CS5. Problem occursregardless of the setting of text anti-aliasing.
+- I am trying to modify the s6 wallpaper to gold color. I used some tolls to change it but the colors are distorted and not in good quality. Any tip to refine or adjust the color?
+- When I'm trying to adjust the color of a portion of an image, I create a hue/saturation layer and then go to the layer mask tab and click color range.
+- I've been able yo open any files with the CAMERA RAW FILTER under the filter menu, but sddenly I can't any more. Have I managed to turn off the filter, or what I am doing wrong? One minute it worked, next - nada.
+- I have a main layer and 4 layers above it adding in pieces of the image for an overall composite.  I then turned my main layer into a Smart Object.  Then I went to Filter> Camera Raw Filter to create a non-destructive filter for modifying exposure, hue etc for the composite image.  But I see that this filter affects only the main layer and the other, additional layers are not showing in the Camera Raw Filter screen on the image.  Can I create a non-destructive filter in Camera Raw that will affect my entire image without merging the layers, or is that necessary?  Thank you.
+- Hello, I created, and imported some custom profiles in Camera Raw. When I open a raw image, I can click on profiles and they all show up. However, if I'm already in photoshop, and attempt to apply a Camera Raw Filter, none of the custom profiles are listed—only the Adobe defaults. Why is this and how do I fix it?
+- how can i NEF files with Photomerge (3-4Fotos) created open in Camera Raw?
+- I'm creating profiles in PS camera RAW using the "new profile" dialog by alt clicking on the "new preset" icon. When I save the profile it stores the new profile (.xmp) in the path "C:\Users\Michael\AppData\Roaming\Adobe\CameraRaw\Settings", which is fine for PS, but Lightroom cannot "see" this path in it's profile browser when it starts up. Lightroom is looking in the path "C:\ProgramData\Adobe\CameraRaw\Settings" for profiles.
+- is there maybe a plug in that provides better image rotation and scaling ? Anything that matches one photo to another ? Selecting source and destination points would be super.
+- Is there a possibility to rotate an image in the select and mask taskspace?
+- I am using Adobe Photoshop CC and I need to know how to rotate an image.
+- When I rotate images in Photoshop CC I get jagged edges and not smooth as before. What has changed? How can I sort this out? Is my software corrupted?  Still works perfectly in CS3.
+- In Extendscript, how would one crop image to the current selection? Thank you!
+- I can crop my images but I'm preparing my images so I can send them to a photo printing bureau and they need me to have the proportions correct. So if I have an image  want them to print on 5x7 paper they need me to prepare the image in the correct proportions so when the scale the image there are no distortions to the X and Y scale.
+- I have a smart object with a liquify filter applied which I want to maintain, however when I try to crop the image using the Crop tool, the filter is distorted, ruining the look of the smart object. How can I crop the image but still keep the filter looking as is?
+- how to crop an image in a hexagonal shape
+- I have an image that is not exactly straight, and since the 2019 update, every time I try to straighten an image, it reduces the file size significantly. How do I straighten/transform an image without making it so much smaller? Image went from 63M to 40K
+- I have an image (shown) that i have partly straightened in LR. However, as you can see, since it is a global straighten, not every is as vertical as I would wish. Is it possible to straighten just the right-hand vertical without affecting the other parts (left) of the castle?
+- I am following a study book, it says to straighten a picture. It says to select straighten tool and to make sure content-aware is selected. I have tried this several times and the content-aware box is blacked out and it cannot be selected. When I straighten the image, it leaves white areas around the picture, whereas the book says they should be filled since the content aware option is checked.
+- With the new update I am having trouble editing text in a text box. I cannot change text through either selecting the text box in the layers panel, or selecting the text tool and clicking on the text box itself. I have had to erase text boxes and retype if I need to change text.
+- I'm trying to edit a text in my Adobe Photoshop 2019. Every time I click on the text, it would create a new layer. Also, there's this box wrapped around the cursor and it won't go away.
+- How can I edit text in an image after the file has been saved?
+- We are getting ready for our regional spelling bee.  I am creating PSD file for 300+ words for our tv broadcast.  Is it possible to check the spelling of these files at one time. In the past I have opened each file and checked them individually.  We are copying the words from Word and use the spell check there, however I want they extra bit of security by checking them in Photoshop as well. I can't have a misspelled word during the spelling bee.
+- Spell check in my adobe softwares are not picking up misspelled word, how do I correct this problem?
+- Help!!  I have been having issues with spell check picking up on words that are spelled correctly, such as that, can not, ours etc. I tried fixing the language setting but that did not work. Any help would be greatly appreciated.
+- I am trying to check spelling in Photoshop CS5, but every single word is coming up as incorrect, even when it isn't. How do I fix that?
+- I'm trying to replace the text "^2" with "2" on photoshop by a find and replace, as there are many instances of this on my image, but i cannot seem to access any function in photoshop that can do a find and replace for anything more than simple text. Is there a css workaround, or a plugin that would allow me to do this? I haven't trawled up anything on google search yet, though I will update this thread if I find anything
+- I'm attempting to change the color and size of a text layer based on whether the text contains a space in it or not. My attempt, which is not working for resizing or color below. I've also tried replacing "indexOf" with "contains" and "includes".
+- Am new to PS CS6 and my rulers 0 point is not at the Default left corner ... but in the middle of my workspace.... have tried the double click and also the dragging as I read to try... it won't change ... how can I get my 0 point on my ruler to be in the top left default corner... or is this the new default placement... very hard to use this way. Help Please!
+- How to make a collage around a number like in this photo?
+- Howdy All, I have been on the phone for (let me check) ahhhhh 7 hours with a PhotoShop tech in India and even though I have paid for it, tfor some unknown reason they can not download PhotoShop to my computer. Anyone on here have a solution I can try? I bought it because I only want to embed one picture into another but guess I wot be able to do that  
+- I already have the license key for Adobe Photoshop CS6, which I bought legally several years ago, but don't have the CD anymore. The key was never used before. Where could I download Adobe Photoshop CS6? (please don't offer links to unofficial / torrent sites, I am only interested in downloading the official version from Adobe directly)
+- Hi! When trying to download photoshop CC to my new computer, it just says " Can´t download because your computer doesn't have the right programs/updates. Although, I was able to download it on my old computer. Why could this be? My newer computer has all the updates and is better than my old one. I checked and it should be all up to date and have the space for photoshop. Any ideas?
+- Hi can someone direct me please? i have a subscription account and recently downloaded pc photoshop but most of my menu options are greyed out what should i do?
+- I actually managed to uninstall creative cloud now. Had to uninstall photoshop first. Now the question I have - how do I install photoshop without installing Creative Cloud?
+- when I download and install the product. He always told me that I have to install again or uninstallation. just like the error 16,It have no effect that I try to do with the solution to the problem on the internet .But when I install the photoshop cs6 again, He still uninstall and open it.
+- I have recently repaired a corrupted hardrive that had the system volume rapidly increasing, before I realised the problem I had deleted creative cloud because the desktop utility was using excessive CPU, I have been able to re install premiere and media Encoder but have tried re installing photoshop, when I click the install button it goes to the installed section and starts installing, then it loads for about 20 secs at 0% and jumps to 99% it then tells me that Photoshop has been installed with a little notification it also says that it's been installed in the activity stream.
+- I just purchased a new computer and will be transferring Photoshop CC from my old computer to the new one. I seem to recall that when I installed Photoshop CC that I needed to do something special to have the 64-bit installed. Do I still have to do that or does Photoshop CC install as 64-bit by default now?
+- I cannot install Photoshop. the instructions say I need to update my mac, however there are absolutely no updates available.
+- Actually i am using Photoshop adobe creative suite CS5 premium, i have purchased a new laptop and i tried to install. When i am trying to install its showing download Adobe Support Advisor so i did the same but when i install advisor its asking install latest version could you please help me.
+- I bought the photography plan two days ago, and every time I try to download photoshop it aborts after somewhere between 5 and 50%. I'm able to download lightroom but not photoshop. I've tried to uninstall adobe, and I've tried to use the cleaner tool, but it doesn't help. I still get the same message. Error code 151. "unable to create the symbolic link" I can't figure out what the problem is. I've spent hours chatting with the adobe help center in India, 3 different persons, and they can't figure out either. I've also had remote sessions with them. No help at all. I use a brand new iMac 27, I can't understand why it's so difficult to download the application. Does anyone have any advice? Do I have to reset the mac for some reason? Best, Petter
+- I created a portfolio with adobe photoshop after editing for 3 days and published I can no longer find my pf to log in as if it never existed. it starts me over to create another new pf but when I type the link in the address bar it shows up
+- When trying to open in Photoshop an Adobe stock template downloaded to their Windows 10 machine , an error  window with text "unexpected end-of-file" encountered.
+- This may be a stupid question but I am very new to photo shop. I have created a bunch combined pictures using adobe stock photos and completed them prior to purchase so they have the photo shop watermark on them, now I have purchased the licence to the photos and the watermarks are still there on my completed work.
+- The perspective tool isn't working right for me. When I try and outline the image, it won't let me release the corners in the correct location. I am using windows 10 with a wacom tablet. I've updated my drivers for my video card and my tablet, I'm using Photoshop CC 2019 and I've updated windows. But it doesn't change anything. I'm not sure what else to try. Because it's hard to explain, I've attached a screenshot to show where the cursor tries to go, it either goes way outside the picture, or inside of it and it's very jerky in it's movement. I hope that makes sense and someone can help me.
+- I have a shot that has two perspective issues. I've tried free transform and lens correction (which improved it somewhat) but I want to fully correct these problems. In the image below, the vertical line of the Cooks Window is tilting inward and the counter has an upward curve. How do I make these straight and perpendicular to each other without warping the parts of the image that seem ok? Thanks!
+- I select an area I want to transform with the lasso tool, I choose an item from the Transform menu (i.e "scale" or "skew",) and the transformation box appears around the entire picture, rather than the selected area. It will only allow me to transform the entire layer, not just the selected area. However, moving the selected area with the move tool works just fine. The problem just started today. Searching has only led me to find basic descriptions of how to transform in Photoshop. I've been using the program for years and I've never had this problem. I'm guessing I checked or un-checked some box without realizing it. Any help is appreciated 
+- 
+
+## intent:what_object
+- what texture painting ?
+- i don't know about layer. Tell me
+- tell me about the background layer
+- tell me layer projection painting is.
+- what channel
+- what ruler
+- show me what alpha channel
+- show me the bounding box
+- what brigde in photoshop CC
+- tell me something about camera raw
+- tell me about the composite
+- tell me eyedropper
+- show me about information channel
+- what panorama is
+- what photomerge is
+- what profiles in camera raw is
+- tell me about selection
+- what exactly spot color channel
+- workspace is ?
+- adjustment layer is ?
+- tell me about the canvas
+- contrast what is it ?
+- what exposure
+- tell me about flattening
+- gradient is ?
+- what is the grayscale
+- what exactly about the lighten
+- what photoshop is
+- what Scale is
+- what sepia tone is
+- sharpen is
+- compression image is 
+- tell me the artboard
+- what the blend mode behind ?
+- what the blend mode clear ?
+- what the blend mode color ?
+- what the blend mode color burn ?
+- what the blend mode color dodge ?
+- what the blend mode darken ?
+- what the blend mode darken color ?
+- what the blend mode difference ?
+- what the blend mode dissolve ?
+- what the blend mode divide ?
+- what the blend mode exclusion ?
+- what the blend mode hard light ?
+- what the blend mode hard mix ?
+- what the blend mode hue ?
+- what the blend mode lighten ?
+- what the blend mode linear burn ?
+- what the blend mode lighten color ?
+- what the blend mode linear dodge ?
+- what the blend mode linear light ?
+- what the blend mode luminosity ?
+- what the blend mode multiply ?
+- what the blend mode normal ?
+- what the blend mode overlay ?
+- what the blend mode pin light ?
+- what the blend mode saturation ?
+- what the blend mode screen ?
+- what the blend mode soft light ?
+- what the blend mode subtract ?
+- what the blend mode vivid light ?
+
+## intent:ask_name
+- your name ?
+- name is ?
+- what's name ?
+- name ?
+
+## intent:goodbye
+- bye
+- see ya
+- see you next time
+
+## intent:thankyou
+- tks
+- tks you
+- tks good bye
+- tks so much
+- that's great. tks
+- great tks bot.
+- tks for your help
+- thank for you help
+
+##intent:choose_process
+- Projection Painting
+- Texture Painting
+- Layer projection painting
+- Live 3D painting
+- Automatic counting using a selection
+- Manually count items in image
+- Create 360 degree panoramas
+- How create panorama with cameraraw
+- Create a photomerge composition
+- Take picture for photomerge
+- How download Photoshop CC
+- How install photoshop CC
+

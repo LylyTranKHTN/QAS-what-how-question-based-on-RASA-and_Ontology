@@ -1,0 +1,1657 @@
+## intent:greet
+- hi there
+- hello there
+- hey
+- hi
+- hey bot
+- good morning
+- goodmorning
+- hello
+- goodevening
+- goodafternoon
+- good evening
+- morning
+- good afternoon
+
+## intent:ask_name
+- what is your name ?
+- who are you ?
+- whats your name ?
+- whats your full name ?
+
+## intent:goodbye
+- bye
+- bye bot
+- goodbye bot
+- see you next time
+- nice
+- goodbye
+
+## intent:what_object
+- what is the [texture](object_1) painting ?
+- what is [texture](object_1) painting ?
+- please tell me about the [texture](object_1) painting.
+- I dont know the [texture](object_1) painting. Can you help me ?
+- I dont know what is the [texture](object_1) painting. Can you help me ?
+- tell me about the [texture](object_1) painting.
+- whats the [texture](object_1) painting.
+- whats [texture](object_1) painting.
+- [texture](object_1) painting.
+
+- what is the [layer](object_1) ?
+- what is [layer](object_1) ?
+- please tell me about the [layer](object_1).
+- I dont know the [layer](object_1). Can you help me ?
+- I dont know what is the [layer](object_1). Can you help me ?
+- tell me about the [layer](object_1).
+- whats the [layer](object_1) ?
+- whats [layer](object_1) ?
+- [layer](object_1).
+
+- what is the [layer](object_1) [projection](object_2) painting ?
+- what is [layer](object_1) [projection](object_2) painting ?
+- please tell me about the [layer](object_1) [projection](object_2) painting.
+- I dont know the [layer](object_1) [projection](object_2) painting. Can you help me ?
+- I dont know what is the [layer](object_1) [projection](object_2) painting. Can you help me ?
+- tell me about the [layer](object_1) [projection](object_2) .
+- whats the [layer](object_1) [projection](object_2) painting ?
+- whats [layer](object_1) [projection](object_2) painting ?
+- [layer](object_1) [projection](object_2) painting.
+
+- what is the [channel](object_1) ?
+- what is [channel](object_1) ?
+- please tell me about the [channel](object_1).
+- I dont know the [channel](object_1). Can you help me ?
+- I dont know what is the [channel](object_1). Can you help me ?
+- tell me about the [channel](object_1) .
+- whats the [channel](object_1) ?
+- whats [channel](object_1) ?
+- [channel](object_1).
+
+- what is the [alpha channel](object_1) ?
+- what is [alpha channel](object_1) ?
+- please tell me about the [alpha channel](object_1).
+- I dont know the [alpha channel](object_1). Can you help me ?
+- I dont know what is the [alpha channel](object_1). Can you help me ?
+- tell me about the [alpha channel](object_1) .
+- whats the [alpha channel](object_1) ?
+- whats [alpha channel](object_1) ?
+- [alpha channel](object_1).
+
+- what is the [bounding](object_1) [box](object_2)?
+- what is [bounding](object_1) [box](object_2)?
+- please tell me about the [bounding](object_1) [box](object_2).
+- I dont know the [bounding](object_1) [box](object_2). Can you help me ?
+- I dont know what is the [bounding](object_1) [box](object_2). Can you help me ?
+- tell me about the [bounding](object_1) [box](object_2) .
+- whats the [bounding](object_1) [box](object_2)?
+- whats [bounding](object_1) [box](object_2)?
+- [bounding](object_1) [box](object_2).
+
+- what is the [background](object_1) [layer](object_2)?
+- what is [background](object_1) [layer](object_2)?
+- please tell me about the [background](object_1) [layer](object_2).
+- I dont know the [background](object_1) [layer](object_2). Can you help me ?
+- I dont know what is the [background](object_1) [layer](object_2). Can you help me ?
+- tell me about the [background](object_1) [layer](object_2).
+- whats the [background](object_1) [layer](object_2) ?
+- whats [background](object_1) [layer](object_2) ?
+- [background](object_1) [layer](object_2).
+
+- what is the [bridge](object_1) in photoshop [CC](version) ?
+- what is [bridge](object_1) in photoshop [CC](version) ?
+- please tell me about the [bridge](object_1) in photoshop [CC](version).
+- I dont know the [bridge](object_1) in photoshop [CC](version). Can you help me ?
+- I dont know what is the [bridge](object_1) in photoshop [CC](version). Can you help me ?
+- tell me about the [bridge](object_1) in photoshop [CC](version).
+- whats the [bridge](object_1) in photoshop [CC](version) ?
+- whats [bridge](object_1) in photoshop [CC](version) ?
+- [bridge](object_1) in photoshop [CC](version).
+
+- what is the [camera raw](object_1) ?
+- what is [camera raw](object_1) ?
+- please tell me about the [camera raw](object_1).
+- I dont know the [camera raw](object_1). Can you help me ?
+- I dont know what is the [camera raw](object_1). Can you help me ?
+- tell me about the [camera raw](object_1) .
+- whats the [camera raw](object_1) ?
+- whats [camera raw](object_1) ?
+- [camera raw](object_1).
+
+- what is the [composite](object_1) ?
+- what is [composite](object_1) ?
+- please tell me about the [composite](object_1).
+- I dont know the [composite](object_1). Can you help me ?
+- I dont know what is the [composite](object_1). Can you help me ?
+- tell me about the [composite](object_1) .
+- whats the [composite](object_1) ?
+- whats [composite](object_1) ?
+- [composite](object_1).
+
+- what is the [eyedropper](object_1) [tool](object_2) ?
+- what is [eyedropper](object_1) [tool](object_2) ?
+- please tell me about the [eyedropper](object_1) [tool](object_2).
+- I dont know the [eyedropper](object_1) [tool](object_2). Can you help me ?
+- I dont know what is the [eyedropper](object_1) [tool](object_2). Can you help me ?
+- tell me about the [eyedropper](object_1) [tool](object_2).
+- whats the [eyedropper](object_1) [tool](object_2) ?
+- whats [eyedropper](object_1) [tool](object_2) ?
+- [eyedropper](object_1) [tool](object_2).
+
+- what is the [information channel](object_1) ?
+- what is [information channel](object_1) ?
+- please tell me about the [information channel](object_1).
+- I dont know the [information channel](object_1). Can you help me ?
+- I dont know what is the [information channel](object_1). Can you help me ?
+- tell me about the [information channel](object_1) .
+- whats the [information channel](object_1) ?
+- whats [information channel](object_1) ?
+- [information channel](object_1).
+
+- what is the [panorama](object_1) ?
+- what is  [panorama](object_1) ?
+- please tell me about the [panorama](object_1).
+- I dont know the [panorama](object_1). Can you help me ?
+- I dont know what is the [panorama](object_1). Can you help me ?
+- tell me about the [panorama](object_1) .
+- whats the [panorama](object_1) ?
+- whats [panorama](object_1) ?
+- [panorama](object_1).
+
+- what is the [photomerge](object_1) ?
+- what is [photomerge](object_1) ?
+- please tell me about the [photomerge](object_1).
+- I dont know the [photomerge](object_1). Can you help me ?
+- I dont know what is the [photomerge](object_1). Can you help me ?
+- tell me about the [photomerge](object_1) .
+- whats the [photomerge](object_1) ?
+- whats [photomerge](object_1) ?
+- [photomerge](object_1).
+
+- what is the [profiles](object_1) in [camera raw](object_2) ?
+- what is [profiles](object_1) in [camera raw](object_2) ?
+- please tell me about the [profiles](object_1) in [camera raw](object_2).
+- I dont know the [profiles](object_1) in [camera raw](object_2). Can you help me ?
+- I dont know what is the [profiles](object_1) in [camera raw](object_2). Can you help me ?
+- tell me about the [profiles](object_1) in [camera raw](object_2).
+- whats the [profiles](object_1) in [camera raw](object_2) ?
+- whats [profiles](object_1) in [camera raw](object_2) ?
+- [profiles](object_1) in [camera raw](object_2).
+
+- what is the [selection](object_1) ?
+- what is [selection](object_1) ?
+- please tell me about the [selection](object_1).
+- I dont know the [selection](object_1). Can you help me ?
+- I dont know what is the [selection](object_1). Can you help me ?
+- tell me about the [selection](object_1) .
+- whats the [selection](object_1) ?
+- whats [selection](object_1) ?
+- [selection](object_1).
+
+- what is the [spot color channel](object_1) ?
+- what is [spot color channel](object_1) ?
+- please tell me about the [spot color channel](object_1).
+- I dont know the [spot color channel](object_1). Can you help me ?
+- I dont know what is the [spot color channel](object_1). Can you help me ?
+- tell me about the [spot color channel](object_1) .
+- whats the [spot color channel](object_1) ?
+- whats [spot color channel](object_1) ?
+- [spot color channel](object_1).
+
+- what is the [workspace](object_1) ?
+- what is [workspace](object_1) ?
+- please tell me about the [workspace](object_1).
+- I dont know the [workspace](object_1). Can you help me ?
+- I dont know what is the [workspace](object_1). Can you help me ?
+- tell me about the [workspace](object_1) .
+- whats the [workspace](object_1) ?
+- whats [workspace](object_1) ?
+- [workspace](object_1).
+
+- what is the [ruler](object_1) ?
+- what is [ruler](object_1) ?
+- please tell me about the [ruler](object_1).
+- I dont know the [ruler](object_1). Can you help me ?
+- I dont know what is the [ruler](object_1). Can you help me ?
+- tell me about the [ruler](object_1) .
+- whats the [ruler](object_1) ?
+- whats [ruler](object_1) ?
+- [ruler](object_1).
+
+- what is the [adjustment](object_1) [layer](object_2) ?
+- what is [adjustment](object_1) [layer](object_2)  ?
+- please tell me about the [adjustment](object_1) [layer](object_2) .
+- I dont know the [adjustment](object_1) [layer](object_2) . Can you help me ?
+- I dont know what is the [adjustment](object_1) [layer](object_2) . Can you help me ?
+- tell me about the [adjustment](object_1) [layer](object_2)  .
+- whats the [adjustment](object_1) [layer](object_2)  ?
+- whats [adjustment](object_1) [layer](object_2) ?
+- [adjustment](object_1) [layer](object_2).
+
+- what is the [canvas](object_1) ?
+- what is [canvas](object_1) ?
+- please tell me about the [canvas](object_1).
+- I dont know the [canvas](object_1). Can you help me ?
+- I dont know what is the [canvas](object_1). Can you help me ?
+- tell me about the [canvas](object_1) .
+- whats the [canvas](object_1) ?
+- whats [canvas](object_1) ?
+- [canvas](object_1).
+
+- what is the [contrast](object_1) ?
+- what is [contrast](object_1) ?
+- please tell me about the [contrast](object_1).
+- I dont know the [contrast](object_1). Can you help me ?
+- I dont know what is the [contrast](object_1). Can you help me ?
+- tell me about the [contrast](object_1) .
+- whats the [contrast](object_1) ?
+- whats [contrast](object_1) ?
+- [contrast](object_1).
+
+- what is the [exposure](object_1) ?
+- what is [exposure](object_1) ?
+- please tell me about the [exposure](object_1).
+- I dont know the [exposure](object_1). Can you help me ?
+- I dont know what is the [exposure](object_1). Can you help me ?
+- tell me about the [exposure](object_1) .
+- whats the [exposure](object_1) ?
+- whats [exposure](object_1) ?
+- [exposure](object_1).
+
+- what is the [flattening](object_1) ?
+- what is [flattening](object_1) ?
+- please tell me about the [flattening](object_1).
+- I dont know the [flattening](object_1). Can you help me ?
+- I dont know what is the [flattening](object_1). Can you help me ?
+- tell me about the [flattening](object_1) .
+- whats the [flattening](object_1) ?
+- whats [flattening](object_1) ?
+- [flattening](object_1).
+
+- what is the [gradient](object_1) ?
+- what is [gradient](object_1) ?
+- please tell me about the [gradient](object_1).
+- I dont know the [gradient](object_1). Can you help me ?
+- I dont know what is the [gradient](object_1). Can you help me ?
+- tell me about the [gradient](object_1) .
+- whats the [gradient](object_1) ?
+- whats [gradient](object_1) ?
+- [gradient](object_1).
+
+- what is the [grayscale](object_1) ?
+- what is [grayscale](object_1) ?
+- please tell me about the [grayscale](object_1).
+- I dont know the [grayscale](object_1). Can you help me ?
+- I dont know what is the [grayscale](object_1). Can you help me ?
+- tell me about the [grayscale](object_1) .
+- whats the [grayscale](object_1) ?
+- whats [grayscale](object_1) ?
+- [grayscale](object_1).
+
+- what is the [lighten](object_1) ?
+- what is [lighten](object_1) ?
+- please tell me about the [lighten](object_1).
+- I dont know the [lighten](object_1). Can you help me ?
+- I dont know what is the [lighten](object_1). Can you help me ?
+- tell me about the [lighten](object_1) .
+- whats the [lighten](object_1) ?
+- whats [lighten](object_1) ?
+- [lighten](object_1).
+
+- what is the [Photoshop](object_1) ?
+- what is [Photoshop](object_1) ?
+- please tell me about the [Photoshop](object_1).
+- I dont know the [Photoshop](object_1). Can you help me ?
+- I dont know what is the [Photoshop](object_1). Can you help me ?
+- tell me about the [Photoshop](object_1) .
+- whats the [Photoshop](object_1) ?
+- whats [Photoshop](object_1) ?
+- [Photoshop](object_1).
+
+- what is the [Scale](object_1) ?
+- what is [Scale](object_1) ?
+- please tell me about the [Scale](object_1).
+- I dont know the [Scale](object_1). Can you help me ?
+- I dont know what is the [Scale](object_1). Can you help me ?
+- tell me about the [Scale](object_1) .
+- whats the [Scale](object_1) ?
+- whats [Scale](object_1) ?
+- [Scale](object_1).
+
+- what is the [sepia tone](object_1) ?
+- what is [sepia tone](object_1) ?
+- please tell me about the [sepia tone](object_1).
+- I dont know the [sepia tone](object_1). Can you help me ?
+- I dont know what is the [sepia tone]](object_1). Can you help me ?
+- tell me about the [sepia tone](object_1) .
+- whats the [sepia tone](object_1) ?
+- whats [sepia tone](object_1) ?
+- [sepia tone](object_1).
+
+- what is the [sharpen](object_1) ?
+- what is [sharpen](object_1) ?
+- please tell me about the [sharpen](object_1).
+- I dont know the [sharpen](object_1). Can you help me ?
+- I dont know what is the [sharpen](object_1). Can you help me ?
+- tell me about the [sharpen](object_1) .
+- whats the [sharpen](object_1) ?
+- whats [sharpen](object_1) ?
+- [sharpen](object_1).
+
+- what is the [compression](object_1) [image](object_2) ?
+- what is [compression](object_1) [image](object_2)  ?
+- please tell me about the [compression](object_1) [image](object_2) .
+- I dont know the [compression](object_1) [image](object_2) . Can you help me ?
+- I dont know what is the [compression](object_1) [image](object_2) . Can you help me ?
+- tell me about the [compression](object_1) [image](object_2)  .
+- whats the [compression](object_1) [image](object_2) ?
+- whats [compression](object_1) [image](object_2)?
+- [compression](object_1) [image](object_2).
+
+- what is the [artboard](object_1) ?
+- what is [artboard](object_1) ?
+- please tell me about the [artboard](object_1).
+- I dont know the [artboard](object_1). Can you help me ?
+- I dont know what is the [artboard](object_1). Can you help me ?
+- tell me about the [artboard](object_1) .
+- whats the [artboard](object_1) ?
+- whats [artboard](object_1) ?
+- [artboard](object_1).
+
+- what is the [blend mode](object_1) [behind](object_2) ?
+- what is [blend mode](object_1) [behind](object_2)  ?
+- please tell me about the [blend mode](object_1) [behind](object_2) .
+- I dont know the [blend mode](object_1) [behind](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [behind](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [behind](object_2)  .
+- whats the [blend mode](object_1) [behind](object_2) ?
+- whats [blend mode](object_1) [behind](object_2)?
+- [blend mode](object_1) [behind](object_2).
+
+- what is the [blend mode](object_1) [clear](object_2) ?
+- what is [blend mode](object_1) [clear](object_2)  ?
+- please tell me about the [blend mode](object_1) [clear](object_2) .
+- I dont know the [blend mode](object_1) [clear](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [clear](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [clear](object_2)  .
+- whats the [blend mode](object_1) [clear](object_2) ?
+- whats [blend mode](object_1) [clear](object_2)?
+- [blend mode](object_1) [clear](object_2).
+
+- what is the [blend mode](object_1) [color](object_2) ?
+- what is [blend mode](object_1) [color](object_2)  ?
+- please tell me about the [blend mode](object_1) [color](object_2) .
+- I dont know the [blend mode](object_1) [color](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [color](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [color](object_2)  .
+- whats the [blend mode](object_1) [color](object_2) ?
+- whats [blend mode](object_1) [color](object_2)?
+- [blend mode](object_1) [color](object_2).
+
+- what is the [blend mode](object_1) [color burn](object_2) ?
+- what is [blend mode](object_1) [color burn](object_2)  ?
+- please tell me about the [blend mode](object_1) [color burn](object_2) .
+- I dont know the [blend mode](object_1) [color burn](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [color burn](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [color burn](object_2)  .
+- whats the [blend mode](object_1) [color burn](object_2) ?
+- whats [blend mode](object_1) [color burn](object_2)?
+- [blend mode](object_1) [color burn](object_2).
+
+- what is the [blend mode](object_1) [color dodge](object_2) ?
+- what is [blend mode](object_1) [color dodge](object_2)  ?
+- please tell me about the [blend mode](object_1) [color dodge](object_2) .
+- I dont know the [blend mode](object_1) [color dodge](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [color dodge](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [color dodge](object_2)  .
+- whats the [blend mode](object_1) [color dodge](object_2) ?
+- whats [blend mode](object_1) [color dodge](object_2)?
+- [blend mode](object_1) [color dodge](object_2).
+
+- what is the [blend mode](object_1) [darken](object_2) ?
+- what is [blend mode](object_1) [darken](object_2)  ?
+- please tell me about the [blend mode](object_1) [darken](object_2) .
+- I dont know the [blend mode](object_1) [darken](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [darken](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [darken](object_2)  .
+- whats the [blend mode](object_1) [darken](object_2) ?
+- whats [blend mode](object_1) [darken](object_2)?
+- [blend mode](object_1) [darken](object_2).
+
+- what is the [blend mode](object_1) [darken color](object_2) ?
+- what is [blend mode](object_1) [darken color](object_2)  ?
+- please tell me about the [blend mode](object_1) [darken color](object_2) .
+- I dont know the [blend mode](object_1) [darken color](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [darken color](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [darken color](object_2)  .
+- whats the [blend mode](object_1) [darken color](object_2) ?
+- whats [blend mode](object_1) [darken color](object_2)?
+- [blend mode](object_1) [darken color](object_2).
+
+- what is the [blend mode](object_1) [difference](object_2) ?
+- what is [blend mode](object_1) [difference](object_2)  ?
+- please tell me about the [blend mode](object_1) [difference](object_2) .
+- I dont know the [blend mode](object_1) [difference](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [difference](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [difference](object_2)  .
+- whats the [blend mode](object_1) [difference](object_2) ?
+- whats [blend mode](object_1) [difference](object_2)?
+- [blend mode](object_1) [difference](object_2).
+
+- what is the [blend mode](object_1) [dissolve](object_2) ?
+- what is [blend mode](object_1) [dissolve](object_2)  ?
+- please tell me about the [blend mode](object_1) [dissolve](object_2) .
+- I dont know the [blend mode](object_1) [dissolve](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [dissolve](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [dissolve](object_2)  .
+- whats the [blend mode](object_1) [dissolve](object_2) ?
+- whats [blend mode](object_1) [dissolve](object_2)?
+- [blend mode](object_1) [dissolve](object_2).
+
+- what is the [blend mode](object_1) [divide](object_2) ?
+- what is [blend mode](object_1) [divide](object_2)  ?
+- please tell me about the [blend mode](object_1) [divide](object_2) .
+- I dont know the [blend mode](object_1) [divide](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [divide](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [divide](object_2)  .
+- whats the [blend mode](object_1) [divide](object_2) ?
+- whats [blend mode](object_1) [divide](object_2)?
+- [blend mode](object_1) [divide](object_2).
+
+- what is the [blend mode](object_1) [exclusion](object_2) ?
+- what is [blend mode](object_1) [exclusion](object_2)  ?
+- please tell me about the [blend mode](object_1) [exclusion](object_2) .
+- I dont know the [blend mode](object_1) [exclusion](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [exclusion](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [exclusion](object_2)  .
+- whats the [blend mode](object_1) [exclusion](object_2) ?
+- whats [blend mode](object_1) [exclusion](object_2)?
+- [blend mode](object_1) [exclusion](object_2).
+
+- what is the [blend mode](object_1) [hard light](object_2) ?
+- what is [blend mode](object_1) [hard light](object_2)  ?
+- please tell me about the [blend mode](object_1) [hard light](object_2) .
+- I dont know the [blend mode](object_1) [hard light](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [hard light](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [hard light](object_2)  .
+- whats the [blend mode](object_1) [hard light](object_2) ?
+- whats [blend mode](object_1) [hard light](object_2)?
+- [blend mode](object_1) [hard light](object_2).
+
+- what is the [blend mode](object_1) [hard mix](object_2) ?
+- what is [blend mode](object_1) [hard mix](object_2)  ?
+- please tell me about the [blend mode](object_1) [hard mix](object_2) .
+- I dont know the [blend mode](object_1) [hard mix](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [hard mix](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [hard mix](object_2)  .
+- whats the [blend mode](object_1) [hard mix](object_2) ?
+- whats [blend mode](object_1) [hard mix](object_2)?
+- [blend mode](object_1) [hard mix](object_2).
+
+- what is the [blend mode](object_1) [hue](object_2) ?
+- what is [blend mode](object_1) [hue](object_2)  ?
+- please tell me about the [blend mode](object_1) [hue](object_2) .
+- I dont know the [blend mode](object_1) [hue](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [hue](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [hue](object_2)  .
+- whats the [blend mode](object_1) [hue](object_2) ?
+- whats [blend mode](object_1) [hue](object_2)?
+- [blend mode](object_1) [hue](object_2).
+
+- what is the [blend mode](object_1) [lighten](object_2) ?
+- what is [blend mode](object_1) [lighten](object_2)  ?
+- please tell me about the [blend mode](object_1) [lighten](object_2) .
+- I dont know the [blend mode](object_1) [lighten](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [lighten](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [lighten](object_2)  .
+- whats the [blend mode](object_1) [lighten](object_2) ?
+- whats [blend mode](object_1) [lighten](object_2)?
+- [blend mode](object_1) [lighten](object_2).
+
+- what is the [blend mode](object_1) [lighter color](object_2) ?
+- what is [blend mode](object_1) [lighter color](object_2)  ?
+- please tell me about the [blend mode](object_1) [lighter color](object_2) .
+- I dont know the [blend mode](object_1) [lighter color](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [lighter color](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [lighter color](object_2)  .
+- whats the [blend mode](object_1) [lighter color](object_2) ?
+- whats [blend mode](object_1) [lighter color](object_2)?
+- [blend mode](object_1) [lighter color](object_2).
+
+- what is the [blend mode](object_1) [linear burn](object_2) ?
+- what is [blend mode](object_1) [linear burn](object_2)  ?
+- please tell me about the [blend mode](object_1) [linear burn](object_2) .
+- I dont know the [blend mode](object_1) [linear burn](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [linear burn](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [linear burn](object_2)  .
+- whats the [blend mode](object_1) [linear burn](object_2) ?
+- whats [blend mode](object_1) [linear burn](object_2)?
+- [blend mode](object_1) [linear burn](object_2).
+
+- what is the [blend mode](object_1) [linear dodge](object_2) ?
+- what is [blend mode](object_1) [linear dodge](object_2)  ?
+- please tell me about the [blend mode](object_1) [linear dodge](object_2) .
+- I dont know the [blend mode](object_1) [linear dodge](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [linear dodge](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [linear dodge](object_2)  .
+- whats the [blend mode](object_1) [linear dodge](object_2) ?
+- whats [blend mode](object_1) [linear dodge](object_2)?
+- [blend mode](object_1) [linear dodge](object_2).
+
+- what is the [blend mode](object_1) [linear light](object_2) ?
+- what is [blend mode](object_1) [linear light](object_2)  ?
+- please tell me about the [blend mode](object_1) [linear light](object_2) .
+- I dont know the [blend mode](object_1) [linear light](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [linear light](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [linear light](object_2)  .
+- whats the [blend mode](object_1) [linear light](object_2) ?
+- whats [blend mode](object_1) [linear light](object_2)?
+- [blend mode](object_1) [linear light](object_2).
+
+- what is the [blend mode](object_1) [luminosity](object_2) ?
+- what is [blend mode](object_1) [luminosity](object_2)  ?
+- please tell me about the [blend mode](object_1) [luminosity](object_2) .
+- I dont know the [blend mode](object_1) [luminosity](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [luminosity](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [luminosity](object_2)  .
+- whats the [blend mode](object_1) [luminosity](object_2) ?
+- whats [blend mode](object_1) [luminosity](object_2)?
+- [blend mode](object_1) [luminosity](object_2).
+
+- what is the [blend mode](object_1) [multiply](object_2) ?
+- what is [blend mode](object_1) [multiply](object_2)  ?
+- please tell me about the [blend mode](object_1) [multiply](object_2) .
+- I dont know the [blend mode](object_1) [multiply](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [multiply](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [multiply](object_2)  .
+- whats the [blend mode](object_1) [multiply](object_2) ?
+- whats [blend mode](object_1) [multiply](object_2)?
+- [blend mode](object_1) [multiply](object_2).
+
+- what is the [blend mode](object_1) [normal](object_2) ?
+- what is [blend mode](object_1) [normal](object_2)  ?
+- please tell me about the [blend mode](object_1) [normal](object_2) .
+- I dont know the [blend mode](object_1) [normal](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [normal](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [normal](object_2)  .
+- whats the [blend mode](object_1) [normal](object_2) ?
+- whats [blend mode](object_1) [normal](object_2)?
+- [blend mode](object_1) [normal](object_2).
+
+- what is the [blend mode](object_1) [overlay](object_2) ?
+- what is [blend mode](object_1) [overlay](object_2)  ?
+- please tell me about the [blend mode](object_1) [overlay](object_2) .
+- I dont know the [blend mode](object_1) [overlay](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [overlay](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [overlay](object_2)  .
+- whats the [blend mode](object_1) [overlay](object_2) ?
+- whats [blend mode](object_1) [overlay](object_2)?
+- [blend mode](object_1) [overlay](object_2).
+
+- what is the [blend mode](object_1) [pin light](object_2) ?
+- what is [blend mode](object_1) [pin light](object_2)  ?
+- please tell me about the [blend mode](object_1) [pin light](object_2) .
+- I dont know the [blend mode](object_1) [pin light](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [pin light](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [pin light](object_2)  .
+- whats the [blend mode](object_1) [pin light](object_2) ?
+- whats [blend mode](object_1) [pin light](object_2)?
+- [blend mode](object_1) [pin light](object_2).
+
+- what is the [blend mode](object_1) [saturation](object_2) ?
+- what is [blend mode](object_1) [saturation](object_2)  ?
+- please tell me about the [blend mode](object_1) [saturation](object_2) .
+- I dont know the [blend mode](object_1) [saturation](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [saturation](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [saturation](object_2)  .
+- whats the [blend mode](object_1) [saturation](object_2) ?
+- whats [blend mode](object_1) [saturation](object_2)?
+- [blend mode](object_1) [saturation](object_2).
+
+- what is the [blend mode](object_1) [screen](object_2) ?
+- what is [blend mode](object_1) [screen](object_2)  ?
+- please tell me about the [blend mode](object_1) [screen](object_2) .
+- I dont know the [blend mode](object_1) [screen](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [screen](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [screen](object_2)  .
+- whats the [blend mode](object_1) [screen](object_2) ?
+- whats [blend mode](object_1) [screen](object_2)?
+- [blend mode](object_1) [screen](object_2).
+
+- what is the [blend mode](object_1) [soft light](object_2) ?
+- what is [blend mode](object_1) [soft light](object_2)  ?
+- please tell me about the [blend mode](object_1) [soft light](object_2) .
+- I dont know the [blend mode](object_1) [soft light](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [soft light](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [soft light](object_2)  .
+- whats the [blend mode](object_1) [soft light](object_2) ?
+- whats [blend mode](object_1) [soft light](object_2)?
+- [blend mode](object_1) [soft light](object_2).
+
+- what is the [blend mode](object_1) [subtract](object_2) ?
+- what is [blend mode](object_1) [subtract](object_2)  ?
+- please tell me about the [blend mode](object_1) [subtract](object_2) .
+- I dont know the [blend mode](object_1) [subtract](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [subtract](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [subtract](object_2)  .
+- whats the [blend mode](object_1) [subtract](object_2) ?
+- whats [blend mode](object_1) [subtract](object_2)?
+- [blend mode](object_1) [subtract](object_2).
+
+- what is the [blend mode](object_1) [vivid light](object_2) ?
+- what is [blend mode](object_1) [vivid light](object_2)  ?
+- please tell me about the [blend mode](object_1) [vivid light](object_2) .
+- I dont know the [blend mode](object_1) [vivid light](object_2) . Can you help me ?
+- I dont know what is the [blend mode](object_1) [vivid light](object_2) . Can you help me ?
+- tell me about the [blend mode](object_1) [vivid light](object_2)  .
+- whats the [blend mode](object_1) [vivid light](object_2) ?
+- whats [blend mode](object_1) [vivid light](object_2)?
+- [blend mode](object_1) [vivid light](object_2).
+
+- how about [texture](object_1) painting
+- how about [layer](object_1)
+- how about [layer](object_1) [projection](object_2) painting
+- how about [channel](object_1)
+- how about [alpha channel](object_1)	
+- how about [bounding](object_1) [box](object_2)
+- how about [background](object_1) [layer](object_2)
+- how about [bridge](object_1) in photoshop [CC](version)
+- how about [camera raw](object_1)
+- how about [composite](object_1)
+- how about [eyedropper](object_1) [tool](object_2)
+- how about [information channel](object_1)
+- how about [panorama](object_1)
+- how about [photomerge](object_1)
+- how about [profiles](object_1) in [camera raw](object_2)
+- how about [selection](object_1)
+- how about [spot color channel](object_1)
+- how about [workspace](object_1)
+- how about [ruler](object_1)
+- how about [adjustment](object_1) [layer](object_2)
+- how about [canvas](object_1)
+- how about [contrast](object_1)
+- how about [exposure](object_1)
+- how about [flattening](object_1)
+- how about [gradient](object_1)
+- how about [grayscale](object_1)
+- how about [lighten](object_1)
+- how about [photoshop](object_1)
+- how about [scale](object_1)
+- how about [sepia tone](object_1)
+- how about [sharpen](object_1)
+- how about [compression](object_1) [image](object_2)
+- how about  [artboard](object_1).
+- how about [blend mode](object_1) [behind](object_2).
+- how about [blend mode](object_1) [clear](object_2).
+- how about [blend mode](object_1) [color](object_2).
+- how about [blend mode](object_1) [color burn](object_2).
+- how about [blend mode](object_1) [color dodge](object_2).
+- how about [blend mode](object_1) [darken](object_2).
+- how about [blend mode](object_1) [darken color](object_2).
+- how about [blend mode](object_1) [difference](object_2).
+- how about [blend mode](object_1) [dissolve](object_2).
+- how about [blend mode](object_1) [divide](object_2).
+- how about [blend mode](object_1) [exclusion](object_2).
+- how about [blend mode](object_1) [hard light](object_2).
+- how about [blend mode](object_1) [hard mix](object_2).
+- how about [blend mode](object_1) [hue](object_2).
+- how about [blend mode](object_1) [lighten](object_2).
+- how about [blend mode](object_1) [lighter color](object_2).
+- how about [blend mode](object_1) [linear burn](object_2).
+- how about [blend mode](object_1) [linear dodge](object_2).
+- how about [blend mode](object_1) [linear light](object_2).
+- how about [blend mode](object_1) [luminosity](object_2).
+- how about [blend mode](object_1) [multiply](object_2).
+- how about [blend mode](object_1) [normal](object_2).
+- how about [blend mode](object_1) [overlay](object_2).
+- how about [blend mode](object_1) [pin light](object_2).
+- how about [blend mode](object_1) [saturation](object_2).
+- how about [blend mode](object_1) [screen](object_2).
+- how about [blend mode](object_1) [soft light](object_2).
+- how about [blend mode](object_1) [subtract](object_2).
+- how about [blend mode](object_1) [vivid light](object_2).
+
+- what about [texture](object_1) painting
+- what about [layer](object_1)
+- what about [layer](object_1) [projection](object_2) painting
+- what about [channel](object_1)
+- what about [alpha channel](object_1)	
+- what about [bounding](object_1) [box](object_2)
+- what about [background](object_1) [layer](object_2)
+- what about [bridge](object_1) in photoshop [CC](version)
+- what about [camera raw](object_1)
+- what about [composite](object_1)
+- what about [eyedropper](object_1) [tool](object_2)
+- what about [information channel](object_1)
+- what about [panorama](object_1)
+- what about [photomerge](object_1)
+- what about [profiles](object_1) in [camera raw](object_2)
+- what about [selection](object_1)
+- what about [spot color channel](object_1)
+- what about [workspace](object_1)
+- what about [ruler](object_1)
+- what about [adjustment](object_1) [layer](object_2)
+- what about [canvas](object_1)
+- what about [contrast](object_1)
+- what about [exposure](object_1)
+- what about [flattening](object_1)
+- what about [gradient](object_1)
+- what about [grayscale](object_1)
+- what about [lighten](object_1)
+- what about [photoshop](object_1)
+- what about [scale](object_1)
+- what about [sepia tone](object_1)
+- what about [sharpen](object_1)
+- what about [compression](object_1) [image](object_2)
+- what about  [artboard](object_1).
+- what about [blend mode](object_1) [behind](object_2).
+- what about [blend mode](object_1) [clear](object_2).
+- what about [blend mode](object_1) [color](object_2).
+- what about [blend mode](object_1) [color burn](object_2).
+- what about [blend mode](object_1) [color dodge](object_2).
+- what about [blend mode](object_1) [darken](object_2).
+- what about [blend mode](object_1) [darken color](object_2).
+- what about [blend mode](object_1) [difference](object_2).
+- what about [blend mode](object_1) [dissolve](object_2).
+- what about [blend mode](object_1) [divide](object_2).
+- what about [blend mode](object_1) [exclusion](object_2).
+- what about [blend mode](object_1) [hard light](object_2).
+- what about [blend mode](object_1) [hard mix](object_2).
+- what about [blend mode](object_1) [hue](object_2).
+- what about [blend mode](object_1) [lighten](object_2).
+- what about [blend mode](object_1) [lighter color](object_2).
+- what about [blend mode](object_1) [linear burn](object_2).
+- what about [blend mode](object_1) [linear dodge](object_2).
+- what about [blend mode](object_1) [linear light](object_2).
+- what about [blend mode](object_1) [luminosity](object_2).
+- what about [blend mode](object_1) [multiply](object_2).
+- what about [blend mode](object_1) [normal](object_2).
+- what about [blend mode](object_1) [overlay](object_2).
+- what about [blend mode](object_1) [pin light](object_2).
+- what about [blend mode](object_1) [saturation](object_2).
+- what about [blend mode](object_1) [screen](object_2).
+- what about [blend mode](object_1) [soft light](object_2).
+- what about [blend mode](object_1) [subtract](object_2).
+- what about [blend mode](object_1) [vivid light](object_2).
+
+## intent:ask_how
+- Hi, I'm having a problem with my [photoshop](object_1).
+- Hi, I'm having a problem when I [install](action) [photoshop](object_1).
+- Hey, I've got a trouble with my [photoshop](object_1).
+- hey, I've got trouble when [install](action) [photoshop](object_1)
+- I can not [run](action) it.
+- I can not [install](action) it.
+
+- How to [reset](action) Edit Settings Back to Default in adobe [camera raw](object_1)?
+- [camera raw](object_1) [reset](action) to original?
+- How to [reset](action) [camera raw](object_1) setting in multiple imagesin action?
+- How do I [stroke](action) a [path](object_1) with phtoshop
+- I am using PS CC 2017 and I'm having problems [stroking](action) a [path](object_1).  The option is greyed out.  No problem with this in my old PS.  Can you tell me what setting I may have wrong for this to happen?
+- by the way, can you show me the way to [run](action) it after fisined installing ?
+
+
+- I get a error when trying to [install](action) [photoshop](object_1) [CC](version) and i dont know why?
+- I'm having an issue when I try to [install](action) [photoshop](object_1). If you have any ideas please let me know!
+- I am using adobe [photoshop](object_1) latest version on my PC but when i try to [install](action) it on my laptop after gathering infomation its Installation is  rool back.
+- I tried to [install](action) [photoshop](object_1) [CS5](version) on my new laptop but it doesn't work. Please help me!!
+- Hi, I need [install](action) my [photoshop](object_1) [CS6](version) in my new laptop bought 10 days ago, but retain the app in my old computer which I still use.
+- I no longer have a slot on my mac desktop to install the cd. I downloaded the [photoshop](object_1) and I keep getting this error when trying to [install](action). Anyone know how I can get this installed? Thanks!
+- When I [install](action) my [photoshop](object_1), it says: Installing Failed. I am using [windows 10](OS). It seems nothing is wrong but only the installation. 
+- I've downloaded the [photoshop](object_1) [CS5](action) extended version but can't [install](action) it on my new [Mac](equipment) computer.
+- i try to [install](action) adobe [photoshop](object_1) [cc](version) 2015 but it keep sayin to download adobe support advisor. could you help me ?
+- Hi I'm wondering if it is possible to [install](action) [photoshop](object_1) [cs6](version) on [iPad](equipment)??
+- Hi, I'm having a problem with [photoshop](object_1) [CC](version). I have more projects that I would like to work on but I can't without Photoshop. Please help and fix.
+- I can not [install](action) it
+- I am trying to [install](action) [photoshop](object_1) [CS4](version) onto my mac. I successfully installed photoshop around 3 days ago without a problemJust yesterday I was having trouble opening photoshop so I uninstalled it. Now when I try to reinstall it, it loads about half way and then says there is a failure and cannot complete the installation. If anyone knows how to help, that'd be appreciated. Thanks!
+- My laptop has crashed. Now I want to [install](action) my [photoshop](object_1) [CS6](version) to my new laptop. How do I proceed?
+- I cant [Install](action) [photoshop](action) [cs5](version) How can i do
+- I have tried everything I have found on the forms so far and google to troubleshoot this with no luck. Please help me to [Install](action) [photoshop](action) [CS6](version) on [window 10](OS)
+- When [install] adobe [photoshop] on a [Mac](equipment), I get a message saying downloading assistant quit unexpectedly.
+- I had to reinstall my computer and I am trying to [install](action) [photoshop](object_1) [CS6](version) again, and I get "We’ve encountered the following issues Installer failed to initialize. this could be due to a missing file. Please download adobe Support Advisor to detect the problem.
+- I have recently installed Photoshop and when I try to start it I get an error message that says that Photoshop can't start because the virtual memory is full!
+
+
+
+- I can [add](action) [text](object_1) to [image](object_2) that I open into photoshop but not when Its a blank tab, it just says rendering type.
+- I have an [image](object_2) of space and I want it to [add](action) some [text](object_1) I've got. What's the best way of going about this?
+- Basically, I am trying to [add](action) [text](object_1) within the [image](object_2), but when I do so, the text goes into the gaps as well.
+- How do I [add](action) [text](object_1) to a [image](object_2) in photoshop?
+- I'm trying to [add](action) [text](object_1) to a [image](object_2) but it says 'could not use the type tool because the file could not be found. I'm using [Windows 8](OS) and the file is a JPEG file, if it helps. Just updated windows so the operating system isn't out of date.
+- I want to [add](action) [text](object_1) to a [image](object_2). I made a new blank layer above the image and clicked on the "T" button.  I am able to click in the workspace and the cursor flashes so I can add text; but, when I go up to the menu to scroll through the different types of text available, Photoshop freezes for quite awhile.  The types of text menu eventually opens but I cannot do anything because Photoshop does not respond again.  I used to be able to add text to my Photoshop files.  What am I doing wrong?  Does this happen to anyone else?
+- If I want to [add](action) [text](object_1) to a [image](object_2), then how can I do that?
+- I want to [add](action) [text](object_1) to a [image](object_2) and followed the online instructions but No text appears on my photo. What am I doing wrong?
+
+- How do I [adjust](action) the [image](object_1) size on three sides only?
+- In the attached example, my cursor was aimed at the second line and the area clicked was the line above. This aim problem only applies to text. Everything else is fine. If I need to edit text I, I have to click on the line below. Any ideas how I can fix this?
+
+- Did followed their directions, uploaded the picture in Facebook, however doesnt [create](action) [360](object_1) degree photo. Did I miss something? Mine is Photoshop CS6 (64bits)
+- Hi, is there a possibility to [create](action) [360](object_1) degree graphics with Photoshop in order to upload them to Facebook. (I´ve seen it a couple of times on Facebook)
+- I've used to [choose](action) [color](object_1) in the  [eyedropper](object_2) tool for years...but in Photoshop CC, it's not working.
+
+
+
+
+- how [add](action) [text](object_1) to [image](object_2) ?
+- how to [add](action) [text](object_1) to [image](object_2) ?
+- [add](action) [text](object_1) to [image](object_2). 
+-  I can [add](action) [text](object_1) to [image](object_2) I open but when I try to add text after I choose the new tab and get my background up, it won't show up and just says rendering type and goes on for hours.
+- How do I [add](action) [text](object_1) to [image](object_2) in photoshop ?
+- i dont know how to [add](action) [text](object_1) to [image](object_2) ?
+- i dont know how to [add](action) [text](object_1) to [image](object_2) ? Can you help me ?
+- tell me the way to [add](action) [text](object_1) to [image](object_2) ?
+- show me how to [add](action) [text](object_1) to [image](object_2) ?
+- is there any way to [add](action) [text](object_1) to [image](object_2) ?
+
+- how [add](action) [conditional](object_1) [action](object_2) ?
+- how to [add](action) [conditional](object_1) [action](object_2) ?
+- [add](action) [conditional](object_1) [action](object_2).
+- how do I [add](action) [conditional](object_1) [action](object_2) ?
+- i dont know how to [add](action) [conditional](object_1) [action](object_2) ?
+- i dont know how to [add](action) [conditional](object_1) [action](object_2). Can you help me ?
+- tell me how to [add](action) [conditional](object_1) [action](object_2) ?
+- show me the way to [add](action) [conditional](object_1) [action](object_2) ?
+- is there any way to [add](action) [conditional](object_1) [action](object_2) ?
+
+- how [apply](action) saved [camera raw](object_1) settings ?
+- how to [apply](action) saved [camera raw](object_1) settings ?
+- [apply](action) saved [camera raw](object_1) settings.
+- how do I [apply](action) saved [camera raw](object_1) settings ?
+- i dont know how to [apply](action) saved [camera raw](object_1) settings ?
+- tell me the way to [apply](action) saved [camera raw](object_1) settings ?
+- show me how to [apply](action) saved [camera raw](object_1) settings ?
+- is there any way to [apply](action) saved [camera raw](object_1) settings ?
+
+- how [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?  
+- how to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?  
+- [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature.
+- how do I [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?  
+- i dont know how to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?
+- i dont know how to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature. Can you help me ?
+- tell me the way to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?
+- show me how to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?  
+- is the any way to [clean](action) up the [photo](object_1) with the [visualize spots](object_2) feature ?    
+
+- how [copy and paste](action) [camera raw](object_1) settings ? 
+- how to [copy and paste](action) [camera raw](object_1) settings ? 
+- [copy and paste](action) [camera raw](object_1) settings.
+- how do I [copy and paste](action) [camera raw](object_1) settings ? 
+- i dont know how to [copy and paste](action) [camera raw](object_1) settings ? 
+- tell me the way to [copy and paste](action) [camera raw](object_1) settings ? 
+- show me how to [copy and paste](action) [camera raw](object_1) settings ? 
+- is there any way to [copy and paste](action) [camera raw](object_1) settings ? 
+
+- how [create](action) [360](object_1) degree [panorama](object_2) ?
+- how to [create](action) [360](object_1) degree [panorama](object_2) ?
+- [create](action) [360](object_1) degree [panorama](object_2)
+- i dont know how to [create](action) [360](object_1) degree [panorama](object_2) ?
+- how do I [create](action) [360](object_1) degree [panorama](object_2) ?
+- tell me how to [create](action) [360](object_1) degree [panorama](object_2) ?
+- show me the way to [create](action) [360](object_1) degree [panorama](object_2) ?
+- is there any way to [create](action) [360](object_1) degree [panorama](object_2) ?
+
+- how [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
+- how to [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
+- [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews
+- how do I [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
+- i dont know how to [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
+- tell me how to [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
+- show me the way to [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
+- is there any way to [export](action) [camera raw](object_1) setttings and [DNG](object_2) previews ?
+
+- how [add](action) [profiles](object_1) to [favorites](object_2) ?
+- how to [add](action) [profiles](object_1) to [favorites](object_2) ?
+- [add](action) [profiles](object_1) to [favorites](object_2).
+- how do I [add](action) [profiles](object_1) to [favorites](object_2) ?
+- i dont know how to [add](action) [profiles](object_1) to [favorites](object_2) ?
+- tell me how to [add](action) [profiles](object_1) to [favorites](object_2) ?
+- show me the way to [add](action) [profiles](object_1) to [favorites](object_2) ?
+- is there any way to [add](action) [profiles](object_1) to [favorites](object_2) ?
+
+- how [adjust](action) [image](object_1) ?
+- how to [adjust](action) [image](object_1) ?
+- [adjust](action) [image](object_1)
+- how do I [adjust](action) [image](object_1) ?
+- i dont know how to [adjust](action) [image](object_1) ?
+- tell me how to [adjust](action) [image](object_1) ?
+- show me how to [adjust](action) [image](object_1) ?
+- show me the way to [adjust](action) [image](object_1) ?
+- is there any way to [adjust](action) [image](object_1) ?
+
+- how [apply](action) [profiles](object_1) to [image](object_2) ?
+- how to [apply](action) [profiles](object_1) to [image](object_2) ?
+- [apply](action) [profiles](object_1) to [image](object_2)
+- how do I [apply](action) [profiles](object_1) to [image](object_2) ?
+- i dont know how to [apply](action) [profiles](object_1) to [image](object_2) ?
+- tell me how to [apply](action) [profiles](object_1) to [image](object_2) ?
+- show me the way to [apply](action) [profiles](object_1) to [image](object_2) ?
+- tell me the way to [apply](action) [profiles](object_1) to [image](object_2) ?
+- is there any way to [apply](action) [profiles](object_1) to [image](object_2) ?
+
+- how to [assign](action) [profiles](object_1) to [image](object_2) ?
+- [assign](action) [profiles](object_1) to [image](object_2)
+- how do I [assign](action) [profiles](object_1) to [image](object_2) ?
+- i dont know how to [assign](action) [profiles](object_1) to [image](object_2) ?
+- tell me how to [assign](action) [profiles](object_1) to [image](object_2) ?
+- show me the way to [assign](action) [profiles](object_1) to [image](object_2) ?
+- tell me the way to [assign](action) [profiles](object_1) to [image](object_2) ?
+- is there any way to [assign](action) [profiles](object_1) to [image](object_2) ?
+
+- how to [cast](action) the [color](object_1) ?
+- [cast](action) the [color](object_1).
+- how do I [cast](action) the [color](object_1) ?
+- i dont know how to [cast](action) the [color](object_1) ?
+- tell me the way to [cast](action) the [color](object_1) ?
+- tell me how to [cast](action) the [color](object_1) ?
+- show me the way to [cast](action) the [color](object_1) ?
+- show me how to [cast](action) the [color](object_1) ?
+- is there any way to [cast](action) the [color](object_1) ?
+
+- how to [correct and check](action) the [text](object_1) ?
+- [correct and check](action) the [text](object_1)
+- how do I [correct and check](action) the [text](object_1) ?
+- i dont know how to [correct and check](action) the [text](object_1) ?
+- tell me how to [correct and check](action) the [text](object_1) ?
+- tell me the way to [correct and check](action) the [text](object_1) ?
+- show me how to [correct and check](action) the [text](object_1) ?
+- show me the way to [correct and check](action) the [text](object_1) ?
+- is there any way to [correct and check](action) the [text](object_1) ?
+
+- how to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- [choose](action) the [color](object_1) in the [tool box](object_2).
+- how do I [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- i dont know how to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- tell me the way to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- tell me how to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- show me the way to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- show me how to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+- is there any way to [choose](action) the [color](object_1) in the [tool box](object_2) ?
+
+- how to [choose](action) the [color](object_1) in the [eyedropper](object_2) tool?
+- [choose](action) the [color](object_1) in the [eyedropper](object_2) tool.
+- how do I [choose](action) the [color](object_1) in the [eyedropper](object_2) tool?
+- tell me the way to [choose](action) the [color](object_1) in the [eyedropper](object_2) tool?
+- tell me how to [choose](action) the [color](object_1) in the [eyedropper](object_2) tool?
+- show me the way to [choose](action) the [color](object_1) in the [eyedropper](object_2) tool?
+- show me how to [choose](action) the [color](object_1) in the [eyedropper](object_2) tool?
+- is there any way to [choose](action) the [color](object_1) in the [eyedropper](object_2) tool?
+
+- how to [combine](action) the [3D](object_1) [objects](object_2) ?
+- [combine](action) the [3D](object_1) [objects](object_2).
+- how do I [combine](action) the [3D](object_1) [objects](object_2) ?
+- i dont know how to [combine](action) the [3D](object_1) [objects](object_2) ?
+- tell me the way to [combine](action) the [3D](object_1) [objects](object_2) ?
+- tell me how to [combine](action) the [3D](object_1) [objects](object_2) ?
+- show me the way to [combine](action) the [3D](object_1) [objects](object_2) ?
+- show me how to [combine](action) the [3D](object_1) [objects](object_2) ?
+- is there any way to [combine](action) the [3D](object_1) [objects](object_2) ?
+
+- how to [combine](action) [image](object_1) with [auto blend layer](object_2) ?
+- [combine](action) [image](object_1) [auto blend layer](object_2).
+- how do I [combine](action) [image](object_1) with [auto blend layer](object_2) ?
+- i dont know how to [combine](action) [image](object_1) with [auto blend layer](object_2) ?
+- tell me how to [combine](action) [image](object_1) with [auto blend layer](object_2) ?
+- tell me the way to [combine](action) [image](object_1) with [auto blend layer](object_2) ?
+- show me how to [combine](action) [image](object_1) with [auto blend layer](object_2) ?
+- show me the way to [combine](action) [image](object_1) with [auto blend layer](object_2) ?
+- is there any way to [combine](action) [image](object_1) with [auto blend layer](object_2) ?
+
+- how to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- [convert](action) [3D layer](object_1) to [2D](object_2) layer.
+- how do I [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- i dont know how to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- show me the way to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- show me how to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- tell me the way to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- tell me how to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+- is there any way to [convert](action) [3D layer](object_1) to [2D](object_2) layer ?
+
+- how to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
+- [convert](action) [3D layer](object_1) to [smart object](object_2)
+- how do I [convert](action) [3D layer](object_1) to [smart object](object_2) ?
+- i dont know how to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
+- show me how to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
+- show me the way to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
+- tell me how to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
+- tell me the way to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
+- is there any way to [convert](action) [3D layer](object_1) to [smart object](object_2) ?
+
+- how to [convert](action) [color image](object_1) to [black and white image](object_2) ?
+- [convert](action) [3D layer](object_1) to [black and white image](object_2)
+- how do I [convert](action) [color image](object_1) to [black and white image](object_2) ?
+- i dont know how to [convert](action) [color image](object_1) to [black and white image](object_2) ?
+- show me the way to [convert](action) [color image](object_1) to [black and white image](object_2) ?
+- show me how to [convert](action) [color image](object_1) to [black and white image](object_2) ?
+- tell me how to [convert](action) [color image](object_1) to [black and white image](object_2) ?
+- tell me the way to [convert](action) [color image](object_1) to [black and white image](object_2) ?
+- is there any way to [convert](action) [color image](object_1) to [black and white image](object_2) ?
+
+- how to [count](action) [objects](object_1) in [image](object_2) ?
+- [count](action) [objects](object_1) in [image](object_2). 
+- how do I [count](action) [objects](object_1) in [image](object_2) ?
+- i dont know how to [count](action) [objects](object_1) in [image](object_2) ?
+- tell me the way to [count](action) [objects](object_1) in [image](object_2) ?
+- tell me how to [count](action) [objects](object_1) in [image](object_2) ?
+- show me the way to [count](action) [objects](object_1) in [image](object_2) ?
+- show me how to [count](action) [objects](object_1) in [image](object_2) ?
+- is there any way to [count](action) [objects](object_1) in [image](object_2) ?
+
+- how to [create](action) the [poster](object_1) ?
+- [create](action) the [poster](object_1)
+- how do I [create](action) the [poster](object_1) ?
+- i dont know how to [create](action) the [poster](object_1) ?
+- tell me the way to [create](action) the [poster](object_1) ?
+- tell me how to [create](action) the [poster](object_1) ?
+- show me the way to [create](action) the [poster](object_1) ?
+- show me how to [create](action) the [poster](object_1) ?
+- is there any way to [create](action) the [poster](object_1) ?
+
+- how to [create](action) the [web banner](object_1) ?
+- [create](action) the [web banner](object_1)
+- how do I [create](action) the [web banner](object_1) ?
+- tell me the way to [create](action) the [web banner](object_1) ?
+- tell me how to [create](action) the [web banner](object_1) ?
+- i dont know how to [create](action) the [web banner](object_1) ?
+- show me the way to [create](action) the [web banner](object_1) ?
+- show me how to [create](action) the [web banner](object_1) ?
+- is there any way to [create](action) the [web banner](object_1) ?
+
+- how to [create](action) [panorama](object_1) with [camera raw](object_2) ?
+- [create](action) [panorama](object_1) with [camera raw](object_2). 
+- how do I [create](action) [panorama](object_1) with [camera raw](object_2) ?
+- tell me the way to [create](action) [panorama](object_1) with [camera raw](object_2) ?
+- tell me how to [create](action) [panorama](object_1) with [camera raw](object_2) ?
+- i dont know how to [create](action) [panorama](object_1) with [camera raw](object_2) ?
+- show me the way to [create](action) [panorama](object_1) with [camera raw](object_2) ?
+- show me how to [create](action) [panorama](object_1) with [camera raw](object_2) ?
+- is there any way to [create](action) [panorama](object_1) with [camera raw](object_2) ?
+
+- how to [create](action) [panorama](object_1) with [photomerge](object_2) ?
+- [create](action) [panorama](object_1) with [photomerge](object_2). 
+- how do i [create](action) [panorama](object_1) with [photomerge](object_2) ?
+- tell me the way to [create](action) [panorama](object_1) with [photomerge](object_2) ?
+- tell me how to [create](action) [panorama](object_1) with [photomerge](object_2) ?
+- i dont know how to [create](action) [panorama](object_1) with [photomerge](object_2) ?
+- show me the way to [create](action) [panorama](object_1) with [photomerge](object_2) ?
+- show me how to [create](action) [panorama](object_1) with [photomerge](object_2) ?
+- is there any way to [create](action) [panorama](object_1) with [photomerge](object_2) ?
+
+- how to [crop](action) the [photo](object_1) ?
+- [crop](action) the [photo](object_1)
+- how do I [crop](action) the [photo](object_1) ?
+- i dont know how to [crop](action) the [photo](object_1) ?
+- tell me the way to [crop](action) the [photo](object_1) ?
+- tell me how to [crop](action) the [photo](object_1) ?
+- show me the way to [crop](action) the [photo](object_1) ?
+- show me how to [crop](action) the [photo](object_1) ?
+- is there any way to [crop](action) the [photo](object_1) ?
+
+- how to [crop](action) the [images](object_1) ?
+- [crop](action) the [images](object_1)
+- how do I [crop](action) the [images](object_1) ?
+- i dont know how to [crop](action) the [images](object_1) ?
+- tell me the way to [crop](action) the [images](object_1) ?
+- tell me how to [crop](action) the [images](object_1) ?
+- show me the way to [crop](action) the [images](object_1) ?
+- show me how to [crop](action) the [images](object_1) ?
+- is there any way to [crop](action) the [images](object_1) ?
+
+- how to [delete](action) the [channel](object_1) ?
+- [delete](action) the [channel](object_1)
+- how do I [delete](action) the [channel](object_1) ?
+- i dont know how to [delete](action) the [channel](object_1) ?
+- tell me the way to [delete](action) the [channel](object_1) ?
+- tell me how to [delete](action) the [channel](object_1) ?
+- show me the way to [delete](action) the [channel](object_1) ?
+- show me how to [delete](action) the [channel](object_1) ?
+- is there any way to [delete](action) the [channel](object_1) ?
+
+- how to [edit](action) the [channel](object_1) ?
+- [edit](action) the [channel](object_1)
+- how do I [edit](action) the [channel](object_1) ?
+- i dont know how to [edit](action) the [channel](object_1) ?
+- tell me the way to [edit](action) the [channel](object_1) ?
+- tell me how to [edit](action) the [channel](object_1) ?
+- show me the way to [edit](action) the [channel](object_1) ?
+- show me how to [edit](action) the [channel](object_1) ?
+- is there any way to [edit](action) the [channel](object_1) ?
+
+- how to [edit](action) the [panorama](object_1) ?
+- [edit](action) the [panorama](object_1)
+- how do I [edit](action) the [panorama](object_1) ?
+- i dont know how to [edit](action) the [panorama](object_1) ?
+- tell me the way to [edit](action) the [panorama](object_1) ?
+- tell me how to [edit](action) the [panorama](object_1) ?
+- show me the way to [edit](action) the [panorama](object_1) ?
+- show me how to [edit](action) the [panorama](object_1) ?
+- is there any way to [edit](action) the [panorama](object_1) ?
+
+- how to [edit](action) the [text](object_1) ?
+- [edit](action) the [text](object_1)
+- how do I [edit](action) the [text](object_1) ?
+- i dont know how to [edit](action) the [text](object_1) ?
+- tell me the way to [edit](action) the [text](object_1) ?
+- tell me how to [edit](action) the [text](object_1) ?
+- show me the way to [edit](action) the [text](object_1) ?
+- show me how to [edit](action) the [text](object_1) ?
+- is there any way to [edit](action) the [text](object_1) ?
+
+- how to [find and replace](action) the [spelling](object_1) ?
+- [find and replace](action) the [spelling](object_1)
+- how do I [find and replace](action) the [spelling](object_1) ?
+- i dont know how to [find and replace](action) the [spelling](object_1) ?
+- tell me the way to [find and replace](action) the [spelling](object_1) ?
+- tell me how to [find and replace](action) the [spelling](object_1) ?
+- show me the way to [find and replace](action) the [spelling](object_1) ?
+- show me how to [find and replace](action) the [spelling](object_1) ?
+- is there any way to [find and replace](action) the [spelling](object_1) ?
+
+- how to [manage](action) the [camera raw](object_1) ?
+- [manage](action) the [camera raw](object_1)
+- how do I [manage](action) the [camera raw](object_1) ?
+- i dont know how to [manage](action) the [camera raw](object_1) ?
+- tell me the way to [manage](action) the [camera raw](object_1) ?
+- tell me how to [manage](action) the [camera raw](object_1) ?
+- show me the way to [manage](action) the [camera raw](object_1) ?
+- show me how to [manage](action) the [camera raw](object_1) ?
+- is there any way to [manage](action) the [camera raw](object_1) ?
+
+- how to [paint](action) the [3D](object_1) [image](object_2) ?
+- [paint](action) the [3D](object_1) [image](object_2)
+- how do I [paint](action) the [3D](object_1) [image](object_2) ?
+- i dont know how to [paint](action) the [3D](object_1) [image](object_2) ?
+- tell me the way to [paint](action) the [3D](object_1) [image](object_2) ?
+- tell me how to [paint](action) the [3D](object_1) [image](object_2) ?
+- show me the way to [paint](action) the [3D](object_1) [image](object_2) ?
+- show me how to [paint](action) the [3D](object_1) [image](object_2) ?
+- is there any way to [paint](action) the [3D](object_1) [image](object_2) ?
+
+- how to [resize](action) [image](object_1) ?
+- [resize](action) [image](object_1)
+- how do I [resize](action) the [image](object_1) ?
+- i dont know how to [resize](action) the [image](object_1) ?
+- tell me the way to [resize](action) the [image](object_1) ?
+- tell me how to [resize](action) the [image](object_1) ?
+- show me the way to [resize](action) the [image](object_1) ?
+- show me how to [resize](action) the [image](object_1) ?
+- is there any way to [resize](action) the [image](object_1) ?
+
+- how to [rotate](action) [image](object_1) ?
+- [rotate](action) [image](object_1)
+- how do I [rotate](action) the [image](object_1) ?
+- i dont know how to [rotate](action) the [image](object_1) ?
+- tell me the way to [rotate](action) the [image](object_1) ?
+- tell me how to [rotate](action) the [image](object_1) ?
+- show me the way to [rotate](action) the [image](object_1) ?
+- show me how to [rotate](action) the [image](object_1) ?
+- is there any way to [rotate](action) the [image](object_1) ?
+
+- how to [select](action) [channel](object_1) ?
+- [select](action) [channel](object_1)
+- i dont know how to [select](action) the [channel](object_1) ?
+- tell me the way to [select](action) the [channel](object_1) ?
+- tell me how to [select](action) the [channel](object_1) ?
+- show me the way to [select](action) the [channel](object_1) ?
+- show me how to [select](action) the [channel](object_1) ?
+- is there any way to [select](action) the [channel](object_1) ?
+
+- how to [show and hide](action) [channel](object_1) ?
+- [show and hide](action) [channel](object_1)
+- i dont know how to [show and hide](action) the [channel](object_1) ?
+- tell me the way to [show and hide](action) the [channel](object_1) ?
+- tell me how to [show and hide](action) the [channel](object_1) ?
+- show me the way to [show and hide](action) the [channel](object_1) ?
+- show me how to [show and hide](action) the [channel](object_1) ?
+- is there any way to [show and hide](action) the [channel](object_1) ?
+
+- how to [straighten](action) [image](object_1) ?
+- [straighten](action) [image](object_1)
+- how do I [straighten](action) the [image](object_1) ?
+- i dont know how to [straighten](action) the [image](object_1) ?
+- tell me the way to [straighten](action) the [image](object_1) ?
+- tell me how to [straighten](action) the [image](object_1) ?
+- show me the way to [straighten](action) the [image](object_1) ?
+- show me how to [straighten](action) the [image](object_1) ?
+- is there any way to [straighten](action) the [image](object_1) ?
+
+- how to [load](action) [camera raw](object_1) settings ?
+- [load](action) [camera raw](object_1) settings.
+- how do I [load](action) the [camera raw](object_1) ?
+- i dont know how to [load](action) the [camera raw](object_1) ?
+- tell me the way to [load](action) the [camera raw](object_1) ?
+- tell me how to [load](action) the [camera raw](object_1) ?
+- show me the way to [load](action) the [camera raw](object_1) ?
+- show me how to [load](action) the [camera raw](object_1) ?
+- is there any way to [load](action) the [camera raw](object_1) ?
+
+- how to [paint](action) on [panorama](object_1) ?
+- [paint](action) [panorama](object_1)
+- how do I [paint](action) the [panorama](object_1) ?
+- i dont know how to [paint](action) the [panorama](object_1) ?
+- tell me the way to [paint](action) the [panorama](object_1) ?
+- tell me how to [paint](action) the [panorama](object_1) ?
+- show me the way to [paint](action) the [panorama](object_1) ?
+- show me how to [paint](action) the [panorama](object_1) ?
+- is there any way to [paint](action) the [panorama](object_1) ?
+
+- how to [reset](action) [camera raw](object_1) ?
+- [reset](action) [camera raw](object_1).
+- how do I [reset](action) the [camera raw](object_1) ?
+- i dont know how to [reset](action) the [camera raw](object_1) ?
+- tell me the way to [reset](action) the [camera raw](object_1) ?
+- tell me how to [reset](action) the [camera raw](object_1) ?
+- show me the way to [reset](action) the [camera raw](object_1) ?
+- show me how to [reset](action) the [camera raw](object_1) ?
+- is there any way to [reset](action) the [camera raw](object_1) ?
+
+- how to [rotate](action) the [camera raw](object_1) [view](object_2) arround ?
+- [rotate](action) the [camera raw](object_1) [view](object_2) arround
+- how do I [rotate](action) the [camera raw](object_1) [view](object_2) arround ?
+- i dont know how to [rotate](action) the [camera raw](object_1) [view](object_2) arround ?
+- tell me the way to [rotate](action) the [camera raw](object_1) [view](object_2) arround ?
+- tell me how to [rotate](action) the [camera raw](object_1) [view](object_2) arround ?
+- show me the way to [rotate](action) the [camera raw](object_1) [view](object_2) arround ?
+- show me how to [rotate](action) the [camera raw](object_1) [view](object_2) arround ?
+- is there any way to [rotate](action) the [camera raw](object_1) [view](object_2) arround ?
+
+- how to [save](action) [camera raw](object_1) settings?
+- [save](action) [camera raw](object_1) settings.
+- how do I [save](action) the [camera raw](object_1) ?
+- i dont know how to [save](action) the [camera raw](object_1) ?
+- tell me the way to [save](action) the [camera raw](object_1) ?
+- tell me how to [save](action) the [camera raw](object_1) ?
+- show me the way to [save](action) the [camera raw](object_1) ?
+- show me how to [save](action) the [camera raw](object_1) ?
+- is there any way to [save](action) the [camera raw](object_1) ?
+
+- how to [save](action) the [image state](object_1) as [snapshot](object_2) ?
+- [rotate](action) the [image state](object_1) [snapshot](object_2)
+- how do I [save](action) the [image state](object_1) as [snapshot](object_2) ?
+- i dont know how to [save](action) the [image state](object_1) as [snapshot](object_2) ?
+- tell me the way to [save](action) the [image state](object_1) as [snapshot](object_2) ?
+- tell me how to [save](action) the [image state](object_1) as [snapshot](object_2) ?
+- show me the way to [save](action) the [image state](object_1) as [snapshot](object_2) ?
+- show me how to [save](action) the [image state](object_1) as [snapshot](object_2) ?
+- is there any way to [save](action) the [image state](object_1) as [snapshot](object_2) ?
+
+- how to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+- [take](action) the [picture](object_1) [photomerge](object_2)
+- how do I [take](action) the [picture](object_1) for [photomerge](object_2) ?
+- i dont know how to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+- tell me the way to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+- tell me how to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+- show me the way to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+- show me how to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+- is there any way to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+
+- how to [use](action) the [spot removal tool](object_2) ?
+- [use](action) the [spot removal tool](object_2)
+- how do I [use](action) the [spot removal tool](object_2)
+- i dont know how to [use](action) the [spot removal tool](object_2)
+- tell me the way to [use](action) the [spot removal tool](object_2)
+- tell me how to [use](action) the [spot removal tool](object_2)
+- show me the way to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+- show me how to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+- is there any way to [take](action) the [picture](object_1) for [photomerge](object_2) ?
+
+- how to [change](action) the unit of [measurement](object_1) ?
+- [change](action) the unit of [measurement](object_1)
+- how do I [change](action) the unit of [measurement](object_1) ?
+- i dont know how to [change](action) the unit of [measurement](object_1) ?
+- tell me the way to [change](action) the unit of [measurement](object_1) ?
+- tell me how to [change](action) the unit of [measurement](object_1) ?
+- show me the way to [change](action) the unit of [measurement](object_1) ?
+- show me how to [change](action) the unit of [measurement](object_1) ?
+- is there any way to [change](action) the unit of [measurement](object_1) ?
+
+- how to [download](action) [photoshop](object_1) [CC](version) ?
+- [download](action) [photoshop](object_1) [CC](version)
+- how do I [download](action) [photoshop](object_1) [CC](version)
+- i dont know how to [download](action) [photoshop](object_1) [CC](version)
+- tell me the way to [download](action) [photoshop](object_1) [CC](version)
+- tell me how to [download](action) [photoshop](object_1) [CC](version)
+- show me the way to [download](action) [photoshop](object_1) [CC](version)
+- show me how to [download](action) [photoshop](object_1) [CC](version)
+- is there any way to [download](action) [photoshop](object_1) [CC](version)
+
+- how to [install](action) [photoshop](object_1) [CC](version) ?
+- [install](action) [photoshop](object_1) [CC](version)
+- how do I [install](action) [photoshop](object_1) [CC](version)
+- i dont know how to [install](action) [photoshop](object_1) [CC](version)
+- tell me the way to [install](action) [photoshop](object_1) [CC](version)
+- tell me how to [install](action) [photoshop](object_1) [CC](version)
+- show me the way to [install](action) [photoshop](object_1) [CC](version)
+- show me how to [install](action) [photoshop](object_1) [CC](version)
+- is there any way to [install](action) [photoshop](object_1) [CC](version)
+
+- how to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2) ?
+- [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+- how do I [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+- i dont know how to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+- tell me the way to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+- tell me how to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+- show me the way to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+- show me how to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+- is there any way to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+
+- how to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- [apply](action) [local adjustment](object_1) with [adjustment brush](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [adjustment brush](object_2) ?
+- show me how to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+- is there any way to [use](action) [adobe stock](object_1) with [CC](version) [libary](object_2)
+
+- how to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- [apply](action) [local adjustment](object_1) with [color range mask](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- show me how to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+- is there any way to [apply](action) [local adjustment](object_1) with [color range mask](object_2) ?
+
+- how to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- [apply](action) [local adjustment](object_1) with [depth range mask](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- show me how to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- is there any way to [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+
+- how to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- [apply](action) [local adjustment](object_1) with [graduated filter](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [depth range mask](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- show me how to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+- is there any way to [apply](action) [local adjustment](object_1) with [graduated filter](object_2) ?
+
+- how to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- [apply](action) [local adjustment](object_1) with [luminance range mask](object_2)
+- how do I [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- i dont know how to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- tell me the way to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- tell me how to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- show me the way to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- show me how to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- is there any way to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+
+- how to [fill](action) [path](object_1) with [color](object_2) ?
+- [fill](action) [path](object_1) with [color](object_2)
+- how do I [fill](action) [path](object_1) with [color](object_2) ?
+- i dont know how to [fill](action) [path](object_1) with [color](object_2) ?
+- tell me the way to [fill](action) [path](object_1) with [color](object_2) ?
+- tell me how to [fill](action) [path](object_1) with [color](object_2) ?
+- show me the way to [fill](action) [path](object_1) with [color](object_2) ?
+- show me how to [fill](action) [path](object_1) with [color](object_2) ?
+- is there any way to [fill](action) [path](object_1) with [color](object_2) ?
+
+- how to [add](action) [color](object_1) to [path](object_2) ?
+- [add](action) [color](object_1) with [path](object_2)
+- how do I [add](action) [color](object_1) with [path](object_2)
+- i dont know how to [add](action) [color](object_1) with [path](object_2)
+- tell me the way to [add](action) [color](object_1) with [path](object_2)
+- tell me how to [add](action) [color](object_1) with [path](object_2)
+- show me the way to [add](action) [color](object_1) with [path](object_2)
+- show me how to [add](action) [color](object_1) with [path](object_2) 
+- is there any way to [add](action) [color](object_1) with [path](object_2) ?
+
+- how to [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3)
+- [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3)
+- how do I [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3)
+- i dont know how to [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3)
+- tell me the way to [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3)
+- tell me how to [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3)
+- show me the way to [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3)
+- show me how to [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3)
+- is there any way to [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3) ?
+
+- how to [adjust](action) [color rendering](object_1) in [camera raw](object_2)
+- [adjust](action) [color rendering](object_1) in [camera raw](object_2)
+- how do I [adjust](action) [color rendering](object_1) in [camera raw](object_2)
+- i dont know how to [adjust](action) [color rendering](object_1) in [camera raw](object_2)
+- tell me the way to [adjust](action) [color rendering](object_1) in [camera raw](object_2)
+- tell me how to [adjust](action) [color rendering](object_1) in [camera raw](object_2)
+- show me the way to [adjust](action) [color rendering](object_1) in [camera raw](object_2)
+- show me how to [adjust](action) [color rendering](object_1) in [camera raw](object_2)
+- is there any way to [adjust](action) [color rendering](object_1) in [camera raw](object_2) ?
+
+- how to [create](action) [digital collage](object_1) in [adobe stock](object_2)
+- [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- how do I [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- i dont know how to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- tell me the way to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- tell me how to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- show me the way to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- show me how to [adjust](action) [digital collage](object_1) in [adobe stock](object_2)
+- is there any way to [adjust](action) [digital collage](object_1) in [adobe stock](object_2) ?
+
+- how to [create](action) [portfolio](object_1) in [website](object_2) with [adobe_portfolio](object_3)
+- [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
+- how do I [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
+- i dont know how to [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
+- tell me the way to [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
+- tell me how to [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
+- show me the way to [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
+- show me how to [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
+- is there any way to [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3) ?
+
+- how to [repair](action) [image](object_1) with [spot removal tool](object_2)
+- [repair](action) [image](object_1) in [spot removal tool](object_2)
+- how do I [repair](action) [image](object_1) in [spot removal tool](object_2)
+- i dont know how to [repair](action) [image](object_1) in [spot removal tool](object_2)
+- tell me the way to [repair](action) [image](object_1) in [spot removal tool](object_2)
+- tell me how to [repair](action) [image](object_1) in [spot removal tool](object_2)
+- show me the way to [repair](action) [image](object_1) in [spot removal tool](object_2)
+- show me how to [repair](action) [image](object_1) in [spot removal tool](object_2)
+- is there any way to [repair](action) [image](object_1) in [spot removal tool](object_2) ?
+
+- how to [use](action) [crop tool](object_1)
+- [use](action) [crop tool](object_1)
+- how do I [use](action) [crop tool](object_1)
+- i dont know how to [use](action) [crop tool](object_1)
+- tell me the way to [use](action) [crop tool](object_1)
+- tell me how to [use](action) [crop tool](object_1)
+- show me the way to [use](action) [crop tool](object_1)
+- show me how to [use](action) [crop tool](object_1)
+- is there any way to [use](action) [crop tool](object_1) ?
+
+- how to [resize](action) [canvas](object_1) using [crop tool](object_2)
+- [resize](action) [canvas](object_1) using [crop tool](object_2)
+- how do I [resize](action) [canvas](object_1) using [crop tool](object_2)
+- i dont know how to [resize](action) [canvas](object_1) using [crop tool](object_2)
+- tell me the way to [resize](action) [canvas](object_1) using [crop tool](object_2)
+- tell me how to [resize](action) [canvas](object_1) using [crop tool](object_2)
+- show me the way to [resize](action) [canvas](object_1) using [crop tool](object_2)
+- show me how to [resize](action) [canvas](object_1) using [crop tool](object_2)
+- is there any way to [resize](action) [canvas](object_1) using [crop tool](object_2) ?
+
+- how to [stroke](action) [Path](object_1) with [color](object_2)
+- [stroke](action) [Path](object_1) with [color](object_2)
+- how do I [stroke](action) [Path](object_1) with [color](object_2)
+- i dont know how to [stroke](action) [Path](object_1) with [color](object_2)
+- tell me the way to [stroke](action) [Path](object_1) with [color](object_2)
+- tell me how to [stroke](action) [Path](object_1) with [color](object_2)
+- show me the way to [stroke](action) [Path](object_1) with [color](object_2)
+- show me how to [stroke](action) [Path](object_1) with [color](object_2)
+- is there any way to [stroke](action) [Path](object_1) with [color](object_2) ?
+
+- how to [create](action) the [paragraph style](object_2) ?
+- [create](action) the [paragraph style](object_2)  ?
+- how do I [create](action) the [paragraph style](object_2) ?
+- tell me the way to [create](action) the [paragraph style](object_2) ?
+- tell me how to [create](action) the [paragraph style](object_2)  ?
+- show me the way to [create](action) the [paragraph style](object_2)  ?
+- show me how to [create](action) the [paragraph style](object_2)  ?
+- is there any way to [create](action) the [paragraph style](object_2)  ?
+
+- how to [create](action) the [paragraph style](object_2) ?
+- [create](action) the [paragraph style](object_2) ?
+- how do I [create](action) the [paragraph style](object_2) ?
+- tell me the way to [create](action) the [paragraph style](object_2) ?
+- tell me how to [create](action) the [paragraph style](object_2) ?
+- show me the way to [create](action) the [paragraph style](object_2) ?
+- show me how to [create](action) the [paragraph style](object_2)  ?
+- is there any way to [create](action) the [paragraph style](object_2) ?
+
+- how to [run](action) [photoshop](object_1) [CS4](version) on [window 10](OS) ?
+- [run](action) photoshop [CS4](version) on [window 10](OS)
+- how do I [run](action) [photoshop](object_1) [CS4](version) on [window 10](OS) ?
+- tell me the way to [run](action) [photoshop](object_1) [CS4](version) on [window 10](OS) ?
+- tell me how to [run](action) [photoshop](object_1) [CS4](version) on [window 10](OS) ?
+- show me the way to [run](action) [photoshop](object_1) [CS4](version) on [window 10](OS) ?
+- show me how to [run](action) [photoshop](object_1) [CS4](version) on [window 10](OS) ?
+- is there any way to [run](action) [photoshop](object_1) [CS4](version) on [window 10](OS) ?
+- how to [run](action) [photoshop](object_1) ?
+- [run](action) photoshop 
+- how do I [run](action) [photoshop](object_1) 
+- tell me the way to [run](action) [photoshop](object_1)
+- tell me how to [run](action) [photoshop](object_1)
+- show me the way to [run](action) [photoshop](object_1) 
+- show me how to [run](action) [photoshop](object_1) 
+- is there any way to [run](action) [photoshop](object_1) 
+- how to [run](action) [photoshop](object_1) [CS4](version) 
+- [run](action) photoshop [CS4](version)
+- how do I [run](action) [photoshop](object_1) [CS4](version) 
+- tell me the way to [run](action) [photoshop](object_1) [CS4](version)
+- tell me how to [run](action) [photoshop](object_1) [CS4](version) 
+- show me the way to [run](action) [photoshop](object_1) [CS4](version) 
+- show me how to [run](action) [photoshop](object_1) [CS4](version) 
+- is there any way to [run](action) [photoshop](object_1) [CS4](version) 
+- how to [run](action) [photoshop](object_1) on [window 10](OS) ?
+- [run](action) photoshop on [window 10](OS)
+- how do I [run](action) [photoshop](object_1) on [window 10](OS) ?
+- tell me the way to [run](action) [photoshop](object_1) on [window 10](OS) ?
+- tell me how to [run](action) [photoshop](object_1) on [window 10](OS) ?
+- show me the way to [run](action) [photoshop](object_1) on [window 10](OS) ?
+- show me how to [run](action) [photoshop](object_1) on [window 10](OS) ?
+- is there any way to [run](action) [photoshop](object_1) on [window 10](OS) ?
+
+- how to [install](action) [photoshop](object_1) [CS5](version) on [Ipad](equipment) ?
+- [install](action) photoshop [CS5](version) on [Ipad](equipment)
+- how do I [install](action) [photoshop](object_1) [CS5](version) on [Ipad](equipment) ?
+- tell me the way to [install](action) [photoshop](object_1) [CS5](version) on [Ipad](equipment) ?
+- tell me how to [install](action) [photoshop](object_1) [CS5](version) on [Ipad](equipment) ?
+- show me the way to [install](action) [photoshop](object_1) [CS5](version) on [Ipad](equipment) ?
+- show me how to [install](action) [photoshop](object_1) [CS5](version) on [Ipad](equipment) ?
+- is there any way to [install](action) [photoshop](object_1) [CS5](version) on [Ipad](equipment) ?
+- how to [install](action) [photoshop](object_1) ?
+- tell me the way to [install](action) [photoshop](object_1)
+- tell me how to [install](action) [photoshop](object_1)
+- show me the way to [install](action) [photoshop](object_1)
+- show me how to [install](action) [photoshop](object_1)
+- how to [install](action) [photoshop](object_1)  on [Ipad](equipment) ?
+- tell me the way to [install](action) [photoshop](object_1)  on [Ipad](equipment)
+- tell me how to [install](action) [photoshop](object_1)  on [Ipad](equipment)
+- show me the way to [install](action) [photoshop](object_1) on [Ipad](equipment)
+- show me how to [install](action) [photoshop](object_1) on [Ipad](equipment)
+- how to [install](action) [photoshop](object_1) [CS5](version)?
+- [install](action) photoshop [CS5](version) 
+- how do I [install](action) [photoshop](object_1) [CS5](version)
+- tell me the way to [install](action) [photoshop](object_1) [CS5](version)
+- tell me how to [install](action) [photoshop](object_1) [CS5](version)
+- show me the way to [install](action) [photoshop](object_1) [CS5](version) 
+- show me how to [install](action) [photoshop](object_1) [CS5](version) 
+- is there any way to [install](action) [photoshop](object_1) [CS5](version) 
+
+- [CS6](version)
+- [CS5](version)
+- [CS4](version)
+- [CC](version)
+- [cs6](version)
+- [cs5](version)
+- [cs4](version)
+- [cc](version)
+- [Window10](OS)
+- [window 10](OS)
+- [window10](OS)
+- [window 10](OS)
+- [Ubuntu](OS)
+- [ubuntu](OS)
+- [Linux](OS)
+- [linux](OS)
+- [ipad](equipment)
+- [PC](equiqment)
+- [mac OS](OS)
+- [macOS](OS)
+- i'm using [window 10](OS)
+- i'm using [mac OS](OS)
+- i'm using [linux](OS)
+- i'm using [ubuntu](OS)
+- i'm using photoshop [cs6](version)
+- i'm using photoshop [cs5](version)
+- i'm using photoshop [cs4](version)
+- i'm using photoshop [cc](version)
+- [laptop](equipment)
+- photoshop [CS6](version)
+- photoshop [CC](version)
+
+
+## intent:thankyou
+- um thank you
+- that's great. thank bot
+- wow that's great. thank you
+- thats great. Tks
+- okay cool uh tks
+- okay thank you  
+- you rock
+- and thats all thank you   
+- thank you and good bye
+- sorry about my mistakes thank you  
+- noise thank you 
+- thank you noise
+- okay thank you 
+- uh thank you  
+- thank you 
+- thank you noise thank you 
+- breath thank you 
+- thank you
+- okay thank you
+- thanks
+- ah thank you 
+- thank you noise
+- thank you good bye
+- breath thank you very much
+- thanks
+- noise thank you 
+- unintelligible thank you 
+- uh okay thank you 
+- thank you bye
+- tks
+- um okay thank you
+
+##intent:choose_process
+- Projection Painting
+- Texture Painting
+- Layer projection painting
+- Live 3D painting
+- Automatic counting using a selection
+- Manually count items in image
+- Create 360 degree panoramas
+- How create panorama with cameraraw
+- Create a photomerge composition
+- Take picture for photomerge
+- How download Photoshop CC
+- How install photoshop CC
+- Paint on the panorama
+- Rotate the camera view around
+- Apply saved cameraraw settings
+- Copy and paste cameraraw settings
+- Export cameraraw settings and DNG previews
+- Load cameraraw settings
+- Save cameraraw Settings
+- Save image states as snapshots
+- Find similar images
+- Find the right image
+- License your image
+- Save and use an image
+- Search for imagery
+- Use the spot Removal tool
+

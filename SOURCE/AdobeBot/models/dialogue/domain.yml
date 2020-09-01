@@ -1,0 +1,115 @@
+%YAML 1.1
+---
+actions:
+- action_renew
+- restart
+- utter_greet
+- utter_ask_os
+- utter_ask_equipment
+- utter_ask_version
+- utter_goodbye
+- utter_ask_name
+- utter_ask_for_help
+- utter_find_object
+- utter_ask_true
+- utter_information_object
+- utter_thank_you
+- action_search_entity
+- action_show_process
+- action_confirm
+- action_search_how_answer
+- action_show_steps
+- action_default_fallback
+config:
+  store_entities_as_slots: true
+entities: []
+forms: []
+intents:
+- greet:
+    use_entities: true
+- ask_name:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- what_object:
+    use_entities: true
+- ask_how:
+    use_entities: true
+- thankyou:
+    use_entities: true
+- choose_process:
+    use_entities: true
+slots:
+  OS:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  action:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  confirm:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  equipment:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  list_process:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.ListSlot
+  list_step:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.ListSlot
+  object_1:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  object_2:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  object_3:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  version:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_ask_equipment:
+  - text: "[{'respone': 'What is the current equipment you want to install on ?'}]"
+  utter_ask_for_help:
+  - text: "[{'respone': 'Oh I'm so sorry, what is your problem ?'}]"
+  - text: "[{'respone': 'What is your problem, sir ?'}]"
+  utter_ask_name:
+  - text: "[{'respone': 'My name is Adobot.'}]"
+  utter_ask_os:
+  - text: "[{'respone': 'Which operating system do you use ?'}]"
+  utter_ask_true:
+  - buttons:
+    - payload: 'Yes'
+      title: 'Yes'
+    - payload: 'No'
+      title: 'No'
+    text: Is that you mean ?
+  utter_ask_version:
+  - text: "[{'respone': 'Oh, I see, which is your current version of photoshop ?'}]"
+  - text: "[{'respone': 'Which version of your current photoshop ?'}]"
+  utter_find_object:
+  - text: "[{'respone': 'I don't know what object you mention.'}]"
+  - text: "[{'respone': 'Which objects do you want to find ?'}]"
+  utter_goodbye:
+  - text: "[{'respone': 'See you next time'}]"
+  utter_greet:
+  - text: "[{'respone': 'Hello ! How can I help you ?'}]"
+  utter_information_object:
+  - text: Ok wait for a second. I'm on it
+  utter_show_steps:
+  - text: Follow these steps below {list_step}
+  utter_thank_you:
+  - text: "[{'respone': 'Your welcome!'}]"

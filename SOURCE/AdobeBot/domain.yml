@@ -1,0 +1,73 @@
+%YAML 1.1
+---
+actions:
+- utter_information_object
+- action_search_how_answer
+- action_show_steps
+- utter_ask_for_help
+- utter_greet
+- action_search_entity
+- utter_ack_makereservation
+- action_show_process
+- utter_thank_you
+- utter_ask_true
+- utter_find_object
+- utter_goodbye
+entities:
+- entity_1
+- entity
+- action
+intents:
+- what_object
+- greet
+- goodbye
+- ask_how
+- what_compare
+- what_compare_using
+- thankyou
+- choose_process
+slots:
+  action:
+    type: text
+  context:
+    type: text
+  entity_1:
+    type: text
+  entity_2:
+    type: text
+  list_process:
+    type: list
+  matches_entities:
+    type: list
+  object_1:
+    type: text
+  object_2:
+    type: text
+templates:
+  utter_ack_makereservation:
+  - text: Okay you wanna ask {entity}
+  utter_ask_for_help:
+  - text: How can I help you ?
+  utter_ask_true:
+  - buttons:
+    - payload: 'Yes'
+      title: 'Yes'
+    - payload: 'No'
+      title: 'No'
+    text: Is that you mean ?
+  utter_find_object:
+  - text: I don't know what object you mention.
+  - text: Which objects do you want to find ?
+  utter_goodbye:
+  - text: Talk to you later.
+  - text: Bye bye :))
+  - text: See you next time
+  utter_greet:
+  - text: Hello!
+  - text: Hi there !
+  - text: Hello !
+  - text: Good morning !
+  utter_information_object:
+  - text: Ok wait for a second. I'm on it
+  utter_thank_you:
+  - text: Your welcome !

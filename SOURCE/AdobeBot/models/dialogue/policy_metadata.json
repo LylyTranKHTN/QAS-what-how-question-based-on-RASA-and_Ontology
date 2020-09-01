@@ -1,0 +1,51 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "equipment",
+        "object_3",
+        "version",
+        "OS",
+        "action",
+        "object_2",
+        "object_1"
+      ]
+    },
+    "null": {
+      "slots": []
+    },
+    "action_renew": {
+      "slots": []
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "utter_greet": {
+      "slots": []
+    },
+    "utter_ask_name": {
+      "slots": []
+    },
+    "utter_thank_you": {
+      "slots": []
+    }
+  },
+  "python": "3.6.5",
+  "max_histories": [
+    5,
+    4,
+    null,
+    2
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "policy.AdobePolicy",
+    "rasa_core.policies.fallback.FallbackPolicy",
+    "rasa_core.policies.form_policy.FormPolicy"
+  ],
+  "trained_at": "20190618-212616",
+  "rasa_core": "0.13.4",
+  "tensorflow": "1.12.0",
+  "sklearn": "0.20.2"
+}

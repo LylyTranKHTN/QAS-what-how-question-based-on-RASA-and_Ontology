@@ -1,0 +1,254 @@
+﻿## intent:greet
+- hi bot
+- hi there
+- hello there
+- stupid bot
+- what is your name stupid bot ?
+
+## intent:ask_how
+- I'm trying to [install](action) [photoshop](object_1) [CS6](version) and adobe indesign on ubuntu 13.04.
+- Hello Any One Have You Idea How to [install](action) [photoshop](object_1) in [Ubuntu](OS) OS?
+- I have multiple [images](object_2) of different width and height. Now I want to make them of same Width & Height. So is there any way I can do this in [photoshop](object_1)?
+- I would like to [resize](action) and save as [image](object_1) in a given folder. But i want to do it with maximum possible quality. I am willing to use third party software.
+- I  am having an [image](object_1) which is taken as a screenshot and it should be uploaded in my webpage, so I wanted to [edit](action) it through Photoshop. As I am new to Photoshop, please help me to find a way. Thanks in advance!
+- I have [created](action) a Spherical [Panoramas](object_2) in Photoshop that I can drag around and see a complete [360](object_1) view but I must be in Photoshop. How do I take that and transfer it to the web so a user can click and drag around the view using javascript? (I do have access to Flash Professional CS 5.5 but I have no experience using it if that program would be better for this application) Also please note I cannot use server side scripts. Please Client Side Scripts Only
+- if someone take 4 pictures representing the [360](object_1) [degrees](object_2) around him, he will be able to [create](action) one big image (panorama) by stitching the 4 images together using special algorithm that recognize some patterns.
+- Im looking for help. I would like to expand my knowledge on [editing](action) a [360](object_1) spherical [panorama](object_2).
+- I have a question about the workflow for [creating](action) and editing [panoramas](object_2)
+- I would like to ask you for an advice about my [panorama](object_2) problem. When [editing](action) [panorama](object_2) from Lightroom to Photoshop in same photo collections wierd curvy lines occurs as shonw on the enclosed photo
+- Trying to merge 3 images - the layers seem to be created but at the conclusion the [panorama](object_2) is not produced ??
+- I am a software engineer of graphics tablet vendor. Please tell me how to design the tablet driver that can [rotate](action) [image](object_1) in Photoshop?
+- How do I [rotate](action)  an [image](object_1) I placed in photoshop ?
+- How do I [rotate](action) an [image](object_1) I placed in ps? I can't seem to find the actual arrow tool on my tool bar and I need some help. 
+- In Extendscript, how would one [crop](action) [image](object_1) to the current selection? Thank you!
+- So guys, i want to [crop](action) this APPLE to make it a mouth like in the first [image](object_1), how do i do that?
+- Trying to get the crop tool to [select](action) a certain pixel [area](object_2) from an [image](object_1).
+every time I try to [straighten](action) an [image](object_1), it reduces the file size significantly. How do I straighten/transform an image without making it so much smaller?
+- How can I [straighten](action) the top part of this [image](object_1) ? I've tried the warp tool, maybe I didn't give it enough time, the puppet warp tool as well although it's tougher to get it perfectly straight. The text need to be straightened as well.
+- Hi all, I'm using [CS6](version) /Creative Cloud and all of a sudden I'm getting an error when I try to [straighten](action) an [image](object_1)
+- I'm trying to [use](action) [Photoshop](object_1) [CS3](version) to [crop](action) and [straighten](action) [images](object_2) of postage stamps
+- I'm trying to [edit](action) a [text](object_1) in my Adobe Photoshop 2019. Every time I click on the text, it would create a new layer. Also, there's this box wrapped around the cursor and it won't go away.
+- I need help figuring out how to [edit](action) a [text](object_1) in [photoshop](object_2) after saving it as a psd. It's my resume and I need to add new information to it.
+- I have been using PS for years. I know how to use the text tool. I am presently unable to [select](action) or [edit](action) [text](object_1), has anyone had this Problem? Do I need to reinstall. Please help!!! Is there a fix for this?
+- When I use "[check](action) [spelling](object_1)" in photoshop, and I know there is a word spelled wrong, I still get a dialog box that says "spell check complete" and it does not recognize the error.
+- I would love to have real time [spell](object_1) [check](action) in Photoshop. Sometimes I type stuff up, it looks great, and I don't run a spell check - and to my chagrin, after I post it into Facebook, UGH! - there's a misspelling.
+I am not getting no error message. its just when I right click and go to spell check it picks up almost every word that is spelled correctly and gives me different words I do not want
+- I'm trying to [replace](action) the [text](object_1) "^2" with "2" on photoshop by a find and replace, as there are many instances of this on my image
+- how to find register mark in all [text](object_1) layers and [replace](action) with registered mark with superscript format
+- They've used the wrong colours in some places, so I've been through to [correct](action) them.  There is one particular colour which I can't seem to [assign](action) to the [text](object_1)
+- In CS6 how do you [changes](action) [rulers](object_1) to decimal inches
+- How can I [change](action) the [measurement](object_1) of the kerning quick key? (When you press option + arrow keys)
+- Can I [change](action) the Transform [measurement](object_1) default from pixels to inches?
+- I am not able to [download](action) [photoshop](object_1) template
+- I'm trying to [download](action) [photoshop](object_1) [CC](version), I get to the point where it asks if I want to run the programme on my laptop and I click yes. It'll load for a few secs, stops and does nothing..
+- I have a dell computer with microsoft 7. It wont let me [download](action) a previous photoshop version and says my computer is not capable of make the update that when trying to download photoshop wants me to.... how can i get [photoshop](object_1) downloaded? I dont know what to do...
+- Hi! When trying to [download](action) [photoshop](object_1) [CC](version) to my new computer, it just says " Can´t download because your computer doesn't have the right programs/updates. Although, I was able to download it on my old computer. Why could this be? My newer computer has all the updates and is better than my old one. I checked and it should be all up to date and have the space for photoshop. Any ideas?
+- I have a new [Macbook](equipment) that doesn't have a disc drive. I want to [install](action) my old copy of [photoshop](object_1) [CS5](version) Extended. I downloaded the program from Adobe's site, but it will not install
+- I'm having an issue when I try to [install](action) [photoshop](object_1). This started a few weeks back when I kept getting and error for "Dynamic Link unavailable".
+- I have purchase and [install](action) [photoshop](object_1) [CC](version) on one of my computers. I'm now ready to install it on the second one. But this Win 7 PC is running short of space on its C: drive. I want to install the files onto its D: drive. But the installer does not allow me the choice to do that.
+- I get a error when trying to [install](action) [photoshop](object_1) [CC](version) and i dont know why?
+- How to [create](action) a [3D](object_1) PDF with absolutely no shadow
+- How can I [create](action) a [3D](object_1) pentagon in photoshop that is like the cube mesh preset but with 5 sides? 
+- How do I [create](action) a [3D](object_1) [image](object_2)?
+- I am new to Photoshop 3D and could do with a little guidance. I wish to [create](action) a [3D](object_1) model of our local area and wondered whether I can use Google maps as a starting point. Is this possible?
+- I need to [create](action) a [character](object_1) like charecter on ekalayawebs.com. I found that character are really funny, and cute. What tool I need to use in photoshop ?
+- I need to [create](action) a [character](object_1) just like character using photoshop
+- Hi. How to [create](action) a [website](object_1) with a photoshop design with layers?
+- I want to [create](action) [website](object_1) template for this domain. I want to use blogspot to host this website
+any idea why the clone tool isn't carrying the selected area? As in the selected area isn't visible within the brush?
+- I [select](action) an [area](object_1) I want to transform with the lasso tool
+- How can I [select](action) my [photo](object_1)
+- I recently upgraded my photoshop cc to cc 2019.  Now, when I [use](action) the [crop tool](object_1), there's no more little center cross-hair. 
+- Since the update, the midpoint is no longer displayed when [using](action) the [crop tool](object_1). Any ideas for a fix?
+- I use the following script for cutting and [straightening](action) several [photos](object_1) of a scan. Now I want to place each photo on a different artboard with the dimensions 2000x2000px (450 dpi).
+- How do I [crop](action) [photo](object_1)?
+- How do I [crop](action) a [photo](object_1) so that I can keep the sides of the photo but remove the middle part.
+- I'm [using](action) [Photoshop](object_1) [CC](version) 3d to prepare my 3d designs for printing.   As part of the preparation Photoshop checks the mesh, builds supports if needed, and builds a raft at the base before giving the option to export to a printer.
+- Has anyone successfully printed a 3D object using the Maker Bot or any other 3D printer for that matter with PsCC.  Does the scaffolding that PsCC create work effectively ? Were you able to print a object successfully on the first print, with no errors ?
+- It's a pain for me now to [resize](action) [images](object_1) and shape because when I resize images, it doesn't requires to press SHIFT to resize with the same ratio, but resizing shapes does require pressing SHIFT, and it's annoying and lack of consistent
+- For the love of God somebody please help me  [resize](action) [images](object_1) for IG!!! I’ve been trying to do one pic for 2 hours.
+- I tried to  [resize](action) [image](object_1) apply image with in points without re sample(Disable).it shows error
+- i tried the color passport check but and [create](action) a dng [profile](object_1) , but it doesn't eliminate the color cast
+- When i tried to [fill](action) the [path](object_1) with the patterns, I set everything and clicked OK. To my surprise, the patterns were half cut. Can anyone tell me what is the problem ?
+- Help whenever I make [path](object_1) the option to  [fill](action) isn't there.
+- When I use the  [fill](action) [path](object_1) option in the pen tool, it fills the outside of the path instead of the inside. How do I fix this it's really annoying me
+- I traced a [path](object_1) in Photoshop and [filled](action) it with color with a transparent background ... and everytime I move it to illustrator the path has a white background
+- Is there a way to [stroke](action) some [path](object_1) with a custom brush from bottom to top instead from top to bottom like Photoshop usually does?
+- When I create a [path](object_1) with and [stroke](action) it with stars, it doesn't just put 1 star evenly spaced. What happens is each star has another star overlaid over it offset slightly. I don't want this
+- I am using PS CC 2017 and I'm having problems [stroking](action) a [path](object_1).   I think I have a setting wrong.  The option is greyed out.  No problem with this in my old PS.  Can you tell me what setting I may have wrong for this to happen?
+- I can't figure out how to [add](action) a [color](object_1) wheel to the surface dial. I keep seeing images of it with a color wheel, or is that not available yet for Photoshop?
+- I'm trying to [add](action) [color](object_1) inside 3D text. The only way I know how is to add a new layer and manually add color using the paint brush, but this takes too much time!
+- when I [add](action) [color](object_1) lookups photoshop crashes for 1 minute, it's very hard to experiment with color lookups, because every time I switch in color lookups I have to wait 1 minute, this problem happens after updating to CC 2017.
+- need to [add](action) a beige [color](object_1) filter to an image. I need the first image to look like the buildings in the bottom image.  How is this done in either Adobe Illustrator [CC](version) or Adobe Photoshop CC?
+- how to [add](action) [path](object_1) blur in photoshop [cs6](version)?
+- I just went to add a brush  [stroke](action) to a [path](object_1) (a circle), but the add stroke is greyed out. I can't fathom out how to add the stroke, Can anyone nudge me in the right direction, please?
+- I am using CC 2019. I am unable to [add](action) [text](object_1) to a path. I have been able to do this in other versions of Photoshop for years. Is there a change in the way this is done now?
+- I am trying to [add](action) a stoke to a [path](object_1) via the enter/return key. However, whenever and whatever brush i use, the brush creates a tapered look rather than a uniform look. I've tried looking at other resources, but I'm not finding anything.
+- I'm using [photoshop](object_1) [cs6](version). tell me how to [run](action) it
+- When I [convert](action) [layers](object_1) to a [smart object](object_2), the default canvas it's on is the size of the original canvas rather than the size of the object--I alawys have to go into the smart object file and crop it--is there anyway to change this default?
+- I am trying to get the active [layer](object_1) to [convert](action) to a [smart object](object_2) via script.
+-   I am trying to create a script that  [convert](action) the selected embedded [smart object](object_2) layer into a linked smart object by bringing up a "save as" dialog so the user can direct where to saved the linked smart object to, each time the script runs. So far I've been able to find this script which converts an embedded smart object to a linked smart object and saves it to a predefined path:
+- Hello, so i've been trying to reduce noise in some astrophotography photos I took the other day in death valley and when I load them into photoshop from Lightroom as edit in photoshop as layers. I can no longer choose selected [layers](object_1) and [convert](action) them into a [smart object](object_2).
+- Is there any way to [convert](action) a [layers](object_1) with a layer mask into a [smart object](object_2) without the layer mask thumbnail disappearing on Photoshop CC? I understand that the mask thumbnail still appears if the mask was applied AFTER the original image was converted to a smart object but I, very stupidly, forgot to do this and have now gotten too far into editing my layers to start the process again. I know that the layer mask can still be edited when the smart object is opened in a separate window however it is important in my case that the layer mask is obvious and editable within the original document.
+- I'm new to editing videos in PS. I've got that when making a global adjustment to all the frames I need to [convert](action) to [smart object](object_2). My problem is that having edited with the layer going purple in the time line (smart object) I then can't review the whole video by hitting play on the timeline without the frame rate going red and settling at a ridiculous 8-9fps.
+- I have a text [layer](object_1), when I [convert](action) it to [smart object](object_2) OR rasterize it OR merge then it becomes BOLDER nad more pixelated / blocky then original text layer. I use photoshop CC and I never noticed such a problem in Photoshop CS5. Problem occursregardless of the setting of text anti-aliasing.
+- I am trying to modify the s6 wallpaper to gold color. I used some tolls to [change](action) it but the [colors](object_1) are distorted and not in good quality. Any tip to refine or adjust the color?
+- When I'm trying to [adjust](object_1) the [color](object_1) of a portion of an image, I create a hue/saturation layer and then go to the layer mask tab and click color range.
+- I've been able yo open any files with the [CAMERA RAW](object_1) FILTER under the filter menu, but sddenly I can't any more. Have I [managed](action) to turn off the filter, or what I am doing wrong? One minute it worked, next - nada.
+- I have a main layer and 4 layers above it adding in pieces of the image for an overall composite.  I then [turned](action) my main [layer](object_1) into a [Smart Object](object_2).  Then I went to Filter> Camera Raw Filter to create a non-destructive filter for modifying exposure, hue etc for the composite image.  But I see that this filter affects only the main layer and the other, additional layers are not showing in the Camera Raw Filter screen on the image.  Can I create a non-destructive filter in Camera Raw that will affect my entire image without merging the layers, or is that necessary?  Thank you.
+- Hello, I [created](action), and imported some custom [profiles](object_1) in [Camera Raw](object_2). When I open a raw image, I can click on profiles and they all show up. However, if I'm already in photoshop, and attempt to apply a Camera Raw Filter, none of the custom profiles are listed—only the Adobe defaults. Why is this and how do I fix it?
+- how can i NEF files with Photomerge (3-4Fotos) [created](action) open in [Camera Raw](object_1)?
+- I'm [creating](action) [profiles](object_1) in PS [camera RAW](object_2) using the "new profile" dialog by alt clicking on the "new preset" icon. When I save the profile it stores the new profile (.xmp) in the path "C:\Users\Michael\AppData\Roaming\Adobe\CameraRaw\Settings", which is fine for PS, but Lightroom cannot "see" this path in it's profile browser when it starts up. Lightroom is looking in the path "C:\ProgramData\Adobe\CameraRaw\Settings" for profiles.
+- is there maybe a plug in that provides better [image](object_1) [rotation](action) and scaling ? Anything that matches one photo to another ? Selecting source and destination points would be super.
+- Is there a possibility to [rotate](action) an [image](object_1) in the select and mask taskspace?
+- I am using Adobe Photoshop [CC](version) and I need to know how to [rotate](action) an [image](object_1).
+- When I [rotate](action) an [image](object_1) in Photoshop [CC](version) I get jagged edges and not smooth as before. What has changed? How can I sort this out? Is my software corrupted?  Still works perfectly in CS3.
+- In Extendscript, how would one [crop](action) an [image](object_1) to the current selection? Thank you!
+- I can [rotate](action) an [image](object_1) but I'm preparing my images so I can send them to a photo printing bureau and they need me to have the proportions correct. So if I have an image  want them to print on 5x7 paper they need me to prepare the image in the correct proportions so when the scale the image there are no distortions to the X and Y scale.
+- I have a [smart object](object_2) with a liquify filter applied which I want to maintain, however when I try to [crop](action) the [image](object_1) using the Crop tool, the filter is distorted, ruining the look of the smart object. How can I crop the image but still keep the filter looking as is?
+- how to [crop](action) an [image](object_1) in a hexagonal shape
+- I have an image that is not exactly straight, and since the 2019 update, every time I try to [straighten](action) an [image](object_1), it reduces the file size significantly. How do I straighten/transform an image without making it so much smaller? Image went from 63M to 40K
+- I have an [image](object_1) (shown) that i have partly straightened in LR. However, as you can see, since it is a global straighten, not every is as vertical as I would wish. Is it possible to [straighten](action) just the right-hand vertical without affecting the other parts (left) of the castle?
+- I am following a study book, it says to [straighten](action) a [picture](object_1). It says to select straighten tool and to make sure content-aware is selected. I have tried this several times and the content-aware box is blacked out and it cannot be selected. When I straighten the image, it leaves white areas around the picture, whereas the book says they should be filled since the content aware option is checked.
+- With the new update I am having trouble [editing](action) [text](object_1) in a text box. I cannot change text through either selecting the text box in the layers panel, or selecting the text tool and clicking on the text box itself. I have had to erase text boxes and retype if I need to change text.
+- I'm trying to [edit](action) a [text](object_1) in my Adobe Photoshop 2019. Every time I click on the text, it would create a new layer. Also, there's this box wrapped around the cursor and it won't go away.
+- How can I [edit](action) [text](object_1) in an image after the file has been saved?
+- We are getting ready for our regional spelling bee.  I am creating PSD file for 300+ words for our tv broadcast.  Is it possible to [check](action) the [spelling](object_1) of these files at one time. In the past I have opened each file and checked them individually.  We are copying the words from Word and use the spell check there, however I want they extra bit of security by checking them in Photoshop as well. I can't have a misspelled word during the spelling bee.
+- [Spell](object_1) [check](action) in my adobe softwares are not picking up misspelled word, how do I correct this problem?
+- Help!!  I have been having issues with [spell](object_1) [check](action) picking up on words that are spelled correctly, such as that, can not, ours etc. I tried fixing the language setting but that did not work. Any help would be greatly appreciated.
+- I am trying to [check](action)  [spelling](object_1) in Photoshop [CS5](version), but every single word is coming up as incorrect, even when it isn't. How do I fix that?
+- I'm trying to [replace](action) the [text](object_1) "^2" with "2" on photoshop by a find and replace, as there are many instances of this on my image, but i cannot seem to access any function in photoshop that can do a find and replace for anything more than simple text. Is there a css workaround, or a plugin that would allow me to do this? I haven't trawled up anything on google search yet, though I will update this thread if I find anything
+- I'm attempting to [change](action) the [color](object_1) and size of a text layer based on whether the text contains a space in it or not. My attempt, which is not working for resizing or color below. I've also tried replacing "indexOf" with "contains" and "includes".
+- Am new to PS [CS6](version) and my rulers 0 point is not at the Default left corner ... but in the middle of my workspace.... have tried the double click and also the dragging as I read to try... it won't change ... how can I get my 0 point on my [ruler](object_1) to be in the top left default corner... or is this the new default placement... very hard to use this way. Help Please!
+- How to make a collage around a number like in this photo?
+- Howdy All, I have been on the phone for (let me check) ahhhhh 7 hours with a PhotoShop tech in India and even though I have paid for it, tfor some unknown reason they can not [download](action) [PhotoShop](object_1) to my computer. Anyone on here have a solution I can try? I bought it because I only want to embed one picture into another but guess I wot be able to do that  
+- I already have the license key for Adobe Photoshop [CS6](version), which I bought legally several years ago, but don't have the CD anymore. The key was never used before. Where could I [download](action) Adobe [Photoshop](object_1) CS6? (please don't offer links to unofficial / torrent sites, I am only interested in downloading the official version from Adobe directly)
+- Hi! When trying to [download](action) [Photoshop](object_1) [CC](version) to my new computer, it just says " Can´t download because your computer doesn't have the right programs/updates. Although, I was able to download it on my old computer. Why could this be? My newer computer has all the updates and is better than my old one. I checked and it should be all up to date and have the space for photoshop. Any ideas?
+- Hi can someone direct me please? i have a subscription account and recently [download](action) pc [photoshop](object_1) but most of my menu options are greyed out what should i do?
+- I actually managed to uninstall creative cloud now. Had to [uninstall](action) [photoshop](object_1) first. Now the question I have - how do I  [install](action)  photoshop without installing Creative Cloud on [Ipad](equipment)?
+- when I [download](action) and [install](action) the product. He always told me that I have to install again or uninstallation. just like the error 16,It have no effect that I try to do with the solution to the problem on the internet .But when I install the photoshop cs6 again, He still uninstall and open it.
+- I have recently repaired a corrupted hardrive that had the system volume rapidly increasing, before I realised the problem I had deleted creative cloud because the desktop utility was using excessive CPU, I have been able to re install premiere and media Encoder but have tried re installing photoshop, when I click the install button it goes to the installed section and starts installing, then it loads for about 20 secs at 0% and jumps to 99% it then tells me that Photoshop has been installed with a little notification it also says that it's been installed in the activity stream.
+- show me the way to [apply](action) [local adjustment](object_1) with [luminance range mask](object_2) ?
+- is there any way to [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3) ?
+- show me the way to [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
+- [create](action) the [paragraph style](object_2)  ?
+- tell me how to [use](action) [crop tool](object_1)
+- [create](action) [portfolio](object_1)  [website](object_2) with [adobe_portfolio](object_3)
+- how to [add](action) [dynamic](object_1) [element](object_2) to [brush](object_3)
+- I just purchased a new computer and will be transferring [Photoshop](object_1) [CC](version) from my old computer to the new one. I seem to recall that when I [installed](action) Photoshop CC that I needed to do something special to have the 64-bit installed. Do I still have to do that or does Photoshop CC install as 64-bit by default now?
+- I cannot [install](action) [Photoshop](object_1). the instructions say I need to update my [mac](OS), however there are absolutely no updates available.
+- Actually i am using [Photoshop](object_1) adobe creative suite [CS5](version) premium, i have purchased a new laptop and i tried to [install](action). When i am trying to install its showing download Adobe Support Advisor so i did the same but when i install advisor its asking install latest version could you please help me.
+- I bought the photography plan two days ago, and every time I try to [download](action) [photoshop](object_1) it aborts after somewhere between 5 and 50%. I'm able to download lightroom but not photoshop. I've tried to uninstall adobe, and I've tried to use the cleaner tool, but it doesn't help. I still get the same message. Error code 151. "unable to create the symbolic link" I can't figure out what the problem is. I've spent hours chatting with the adobe help center in India, 3 different persons, and they can't figure out either. I've also had remote sessions with them. No help at all. I use a brand new iMac 27, I can't understand why it's so difficult to download the application. Does anyone have any advice? Do I have to reset the mac for some reason? Best, Petter
+- I [created](action) a [portfolio](object_1) with adobe photoshop after editing for 3 days and published I can no longer find my pf to log in as if it never existed. it starts me over to create another new pf but when I type the link in the address bar it shows up
+- When trying to open in [Photoshop](object_1) an Adobe stock template [downloaded](action) to their [Windows 10](OS) machine , an error  window with text "unexpected end-of-file" encountered.
+- This may be a stupid question but I am very new to photo shop. I have [created](action) a bunch combined pictures using [adobe stock](object_1) photos and completed them prior to purchase so they have the photo shop watermark on them, now I have purchased the licence to the photos and the watermarks are still there on my completed work.
+- The perspective tool isn't working right for me. When I try and outline the [image](object_1), it won't let me release the corners in the correct location. I am using [windows 10](OS) with a wacom tablet. I've updated my drivers for my video card and my tablet, I'm using Photoshop [CC](version) 2019 and I've updated windows. But it doesn't change anything. I'm not sure what else to try. Because it's hard to explain, I've attached a screenshot to show where the cursor tries to go, it either goes way outside the picture, or inside of it and it's very jerky in it's movement. I hope that makes sense and someone can help me.
+- I have a shot that has two perspective issues. I've tried free [transform](action) and lens correction (which improved it somewhat) but I want to fully correct these problems. In the image below, the vertical line of the Cooks Window is tilting inward and the counter has an upward curve. How do I make these straight and perpendicular to each other without warping the parts of the image that seem ok? Thanks!
+- I [select](action) an [area](object_1) I want to transform with the [lasso tool](object_2), I choose an item from the Transform menu (i.e "scale" or "skew",) and the transformation box appears around the entire picture, rather than the selected area. It will only allow me to transform the entire layer, not just the selected area. However, moving the selected area with the move tool works just fine. The problem just started today. Searching has only led me to find basic descriptions of how to transform in Photoshop. I've been using the program for years and I've never had this problem. I'm guessing I checked or un-checked some box without realizing it. Any help is appreciated 
+- 
+
+## intent:what_object
+- what [texture](object_1) painting ?
+- i don't know about [layer](object_1). Tell me
+- tell me about the [background](object_1) [layer](object_2)
+- tell me [layer](object_1) [projection](object_2) painting  is.
+- what [channel](object_1)
+- what [ruler](object_1)
+- show me what [alpha channel](object_1)
+- show me the [bounding](object_1) [box](object_2)
+- what [bridge](object_1) in photoshop [CC](version) 
+- tell me something about [camera raw](object_1)
+- tell me about the [composite](object_1)
+- tell me [eyedropper](object_1) [tool](object_2)
+- show me about [information channel](object_1)
+- what [panorama](object_1) is
+- what [photomerge](object_1) is
+- what [profiles](object_1) in [camera raw](object_2) is
+- tell me about [selection](object_1)
+- what exactly [spot color channel](object_1)
+- [workspace](object_1) is ?
+- [adjustment](object_1) [layer](object_2) is ?
+- tell me about the [canvas](object_1)
+- [contrast](object_1) what is it ?
+- what [exposure](object_1)
+- tell me about [flattening](object_1)
+- [gradient](object_1) is ?
+- what is the [grayscale](object_1)
+- what exactly about the  [lighten](object_1)
+- what [photoshop](object_1)  is
+- what [Scale](object_1) is
+- what [sepia tone](object_1) is
+- [sharpen](object_1) is
+- [compression](object_1) [image](object_2) is 
+- tell me the [artboard](object_1)
+- what the [blend mode](object_1) [behind](object_2) ?
+- what the [blend mode](object_1) [clear](object_2) ?
+- what the [blend mode](object_1) [color](object_2) ?
+- what the [blend mode](object_1) [color burn](object_2) ?
+- what the [blend mode](object_1) [color dodge](object_2) ?
+- what the [blend mode](object_1) [darken](object_2) ?
+- what the [blend mode](object_1) [darken color](object_2) ?
+- what the  [blend mode](object_1) [difference](object_2) ?
+- what the [blend mode](object_1) [dissolve](object_2) ?
+- what the [blend mode](object_1) [divide](object_2) ?
+- what the [blend mode](object_1) [exclusion](object_2) ?
+- what the [blend mode](object_1) [hard light](object_2) ?
+- what the [blend mode](object_1) [hard mix](object_2) ?
+- what the [blend mode](object_1) [hue](object_2) ?
+- what the [blend mode](object_1) [lighten](object_2) ?
+- what the [blend mode](object_1) [lighter color](object_2) ?
+- what the [blend mode](object_1) [linear burn](object_2)
+- what the [blend mode](object_1) [linear dodge](object_2) ?
+- what the [blend mode](object_1) [linear light](object_2) ?
+- what the [blend mode](object_1) [luminosity](object_2) ?
+- what the [blend mode](object_1) [multiply](object_2) ?
+- what the [blend mode](object_1) [normal](object_2) ?
+- what the [blend mode](object_1) [overlay](object_2) ?
+- what the [blend mode](object_1) [pin light](object_2) ?
+- what the [blend mode](object_1) [saturation](object_2) ?
+- what the [blend mode](object_1) [screen](object_2) ?
+- what the [blend mode](object_1) [soft light](object_2) ?
+- what the [blend mode](object_1) [subtract](object_2) ?
+- what the [blend mode](object_1) [vivid light](object_2) ?
+
+## intent:ask_name
+- your name ?
+- name is ?
+- what's name ?
+- name ?
+- stupid bot name ?
+
+## intent:goodbye
+- bye
+- bye bye
+- see you again
+- see ya
+- see you next time
+
+## intent:thankyou
+- tks
+- tks you
+- tks good bye
+- tks so much
+- that's great. tks
+- great tks bot.
+- tks for your help
+- thank for you help
+
+##intent:choose_process
+- Projection Painting
+- Texture Painting
+- Layer projection painting
+- Live 3D painting
+- Automatic counting using a selection
+- Manually count items in image
+- Create 360 degree panoramas
+- How create panorama with cameraraw
+- Create a photomerge composition
+- Take picture for photomerge
+- How download Photoshop CC
+- How install photoshop CC
+- ádasdasdasdas
+- ádasdaszczxcasfas
+- ưqrqlwkjwkjfa
+- how abcdfagaweweter
