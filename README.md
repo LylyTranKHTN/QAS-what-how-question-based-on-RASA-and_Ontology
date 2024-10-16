@@ -1,1 +1,1 @@
-My thesis work in university together with my friend "Hien Luong Tran" and the support of my teachers at University of Science. Here is the publication of my thesis: https://ieeexplore.ieee.org/abstract/document/9140742
+My thesis work in university together with my friend "Hien Luong Tran" and the support of my teachers at the University of Science. Here is the publication of my thesis: https://ieeexplore.ieee.org/abstract/document/9140742
